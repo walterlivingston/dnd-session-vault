@@ -4,22 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "3adf0462b60ef990",
+        "id": "0b2cdf2fa3c283d4",
         "type": "tabs",
         "children": [
           {
-            "id": "9f0f084614a49a28",
+            "id": "2c5d5c3a1d0d21ca",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Characters/Corvit Crowe.md",
+                "file": "home.md",
                 "mode": "preview",
                 "backlinks": false,
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Corvit Crowe"
+              "title": "home"
             }
           }
         ]
@@ -95,12 +95,32 @@
             "state": {
               "type": "DICE_ROLLER_VIEW",
               "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "ad06346e1b1f880f",
+            "type": "leaf",
+            "state": {
+              "type": "initiative-tracker-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "b1a688faa4fe3fd5",
+            "type": "leaf",
+            "state": {
+              "type": "DICE_ROLLER_VIEW",
+              "state": {},
               "icon": "dices",
               "title": "Dice Tray"
             }
           },
           {
-            "id": "ad06346e1b1f880f",
+            "id": "cd884fded0564745",
             "type": "leaf",
             "state": {
               "type": "initiative-tracker-view",
@@ -197,12 +217,32 @@
       "obsidian-5e-statblocks:Open Creature pane": false
     }
   },
-  "active": "9f0f084614a49a28",
+  "active": "2c5d5c3a1d0d21ca",
   "lastOpenFiles": [
-    "Characters/Felix Fizzler.md",
-    "Characters/Merla.md",
-    "Characters/Rhogar.md",
-    "Characters/Corvit Crowe.md",
+    "Session Logs/Session 2 (2025-01-12).md",
+    "Session Logs/Session 1 (2024-12-07).md",
+    "home.md",
+    "Locations/Wall Mart.md",
+    "Locations/Palace of Waterdeep.md",
+    "Locations/Marv's Milkery.md",
+    "People/Dilon.md",
+    "Locations/Yawning Portal.md",
+    "Items/Unbreakable Arrow.md",
+    "People/Shirley.md",
+    "People/Bertha le Gertha.md",
+    "People/Mr. Mittens.md",
+    "People/Caladorn Cassalanter.md",
+    "People/Sarai Cassalanter.md",
+    "People/Erron.md",
+    "People",
+    "Locations/Waterdeep.md",
+    "Locations",
+    "Items",
+    "create a link.md",
+    "Party/Felix Fizzler.md",
+    "Party/Rhogar.md",
+    "Party/Merla.md",
+    "Party/Corvit Crowe.md",
     "Assets/Characters/rhogar.jpeg",
     "Assets/Characters/merla.jpeg",
     "Assets/Characters/felix.png",
@@ -215,31 +255,11 @@
     "INDEX.md",
     "Compendium/Party/Quests/Bad Dog.md",
     "Compendium/NPC's/Bertha le Gertha.md",
-    "Compendium/Lore/Encounters/On the Road.md",
-    "Compendium/Party/Quests/Violence in Waterdeep.md",
-    "Compendium/Party/Quests/Visions of Death.md",
-    "Compendium/Atlas/Material Plane/Toril/Faerûn/The Sword Coast/Waterdeep/Yawning Portal/Yawning Portal.md",
-    "Compendium/Reference/spells/chill-touch.md",
-    "Compendium/Reference/spells/spells.md",
-    "Compendium/Reference/spells/cure-wounds.md",
-    "Compendium/items/sword-of-wounding.md",
     "Compendium/items",
-    "Compendium/Party/Player Characters/Felix Fizzler.md",
-    "Compendium/Party/Player Characters/Merla.md",
-    "Characters.md",
-    "Compendium/Reference/tables/urban-encounters.md",
-    "Compendium/Reference/tables/twists.md",
-    "Compendium/Reference/tables/treasure-hoard-challenge-04.md",
-    "Compendium/Reference/tables/dungeon-purpose.md",
-    "Compendium/Reference/tables/armor-and-shields-armor.md",
-    "Compendium/Reference/tables/adventuring-gear.md",
     "Assets/Images/NPC/caladorn-cassalanter.jpg",
     "Assets/Images/NPC/caladorn-cassalanter.jpg.opdownload",
     "Compendium/Atlas/Material Plane/Toril/Faerûn/The Sword Coast/Waterdeep/Undermountain",
     "Compendium/Reference/bestiary/npc",
-    "Compendium/Reference/bestiary/legendary-group",
-    "Compendium/Reference/feats",
-    "Compendium/Reference/classes",
     "Assets/Images/quest.png",
     "Assets/Images/session.png",
     "Assets/Images/portrait.jpg",
