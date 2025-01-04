@@ -1,14 +1,43 @@
 {
   "main": {
-    "id": "959db2c2fddf6160",
+    "id": "c530face6c21a68a",
     "type": "split",
     "children": [
       {
-        "id": "f38eaa1049f388e1",
+        "id": "3adf0462b60ef990",
         "type": "tabs",
         "children": [
           {
-            "id": "33e202043e158355",
+            "id": "9f0f084614a49a28",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Characters/Rhogar.md",
+                "mode": "preview",
+                "backlinks": false,
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Rhogar"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a0f9c0e9714a9650",
+    "type": "split",
+    "children": [
+      {
+        "id": "b0963ff0c5da124c",
+        "type": "tabs",
+        "dimension": 24.759080800593033,
+        "children": [
+          {
+            "id": "a58c95d8f0002a0b",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -18,20 +47,14 @@
             }
           }
         ]
-      }
-    ],
-    "direction": "vertical"
-  },
-  "left": {
-    "id": "11029264494d4a4a",
-    "type": "split",
-    "children": [
+      },
       {
-        "id": "f450a4585391baef",
+        "id": "ec977c9092a10bf2",
         "type": "tabs",
+        "dimension": 75.24091919940697,
         "children": [
           {
-            "id": "b8723828ba21e8d5",
+            "id": "e493bc2564fcbecb",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -41,9 +64,72 @@
               "icon": "lucide-folder-closed",
               "title": "Files"
             }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 346.5
+  },
+  "right": {
+    "id": "cbcc3a597fb0833b",
+    "type": "split",
+    "children": [
+      {
+        "id": "36fb3699cc5e9295",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "34783b92fcf002b0",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
           },
           {
-            "id": "4dcf89ad29a44694",
+            "id": "782751ee7524a40d",
+            "type": "leaf",
+            "state": {
+              "type": "DICE_ROLLER_VIEW",
+              "state": {},
+              "icon": "dices",
+              "title": "Dice Tray"
+            }
+          },
+          {
+            "id": "ad06346e1b1f880f",
+            "type": "leaf",
+            "state": {
+              "type": "initiative-tracker-view",
+              "state": {},
+              "icon": "initiative-tracker",
+              "title": "Initiative Tracker"
+            }
+          }
+        ]
+      },
+      {
+        "id": "1f6fc3dcaa6b4b26",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "37992ec5383e3e3d",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "5313bc1a958e6408",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -60,36 +146,12 @@
             }
           },
           {
-            "id": "b192719a58f93c37",
-            "type": "leaf",
-            "state": {
-              "type": "bookmarks",
-              "state": {},
-              "icon": "lucide-bookmark",
-              "title": "Bookmarks"
-            }
-          }
-        ]
-      }
-    ],
-    "direction": "horizontal",
-    "width": 300
-  },
-  "right": {
-    "id": "676dd037c9250e4a",
-    "type": "split",
-    "children": [
-      {
-        "id": "c9cc07c3ac8c7874",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "72c255376a7995b0",
+            "id": "f0a8a458c094cb80",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Welcome.md",
+                "file": "Session Notes/Session 01 (2024-12-07).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,71 +161,89 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Welcome"
+              "title": "Backlinks for Session 01 (2024-12-07)"
             }
-          },
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "e72f6d1e9396a0dc",
+        "type": "tabs",
+        "children": [
           {
-            "id": "649b7838908fcd54",
+            "id": "227a93ad5cbdf702",
             "type": "leaf",
             "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "Welcome.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-going-out",
-              "title": "Outgoing links from Welcome"
-            }
-          },
-          {
-            "id": "9b66505039a87f92",
-            "type": "leaf",
-            "state": {
-              "type": "tag",
-              "state": {
-                "sortOrder": "frequency",
-                "useHierarchy": true
-              },
-              "icon": "lucide-tags",
-              "title": "Tags"
-            }
-          },
-          {
-            "id": "a151e55c81f84720",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "Welcome.md"
-              },
-              "icon": "lucide-list",
-              "title": "Outline of Welcome"
+              "type": "initiative-tracker-creature-view",
+              "state": {},
+              "icon": "initiative-tracker-creature-view",
+              "title": "Combatant"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 344.5
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "modalforms:Edit forms": false,
+      "templater-obsidian:Templater": false,
+      "initiative-tracker:Initiative Tracker Encounter Builder": false,
+      "obsidian-5e-statblocks:Open Creature pane": false
     }
   },
-  "active": "33e202043e158355",
+  "active": "9f0f084614a49a28",
   "lastOpenFiles": [
-    "Welcome.md",
-    "home.md",
-    "netlify.toml",
-    "New Text Document.txt",
-    "Untitled.md"
+    "Characters/Merla.md",
+    "Characters/Felix Fizzler.md",
+    "Characters/Corvit Crowe.md",
+    "Characters/Rhogar.md",
+    "Assets/Characters/rhogar.jpeg",
+    "Assets/Characters/merla.jpeg",
+    "Assets/Characters/felix.png",
+    "Assets/Characters/corvit.jpeg",
+    "Assets/Characters",
+    "Assets",
+    "(Public) Session Notes",
+    "Random Tables/_Implementations.md",
+    "Session Notes/Session 01 (2024-12-07).md",
+    "INDEX.md",
+    "Compendium/Party/Quests/Bad Dog.md",
+    "Compendium/NPC's/Bertha le Gertha.md",
+    "Compendium/Lore/Encounters/On the Road.md",
+    "Compendium/Party/Quests/Violence in Waterdeep.md",
+    "Compendium/Party/Quests/Visions of Death.md",
+    "Compendium/Atlas/Material Plane/Toril/Faerûn/The Sword Coast/Waterdeep/Yawning Portal/Yawning Portal.md",
+    "Compendium/Reference/spells/chill-touch.md",
+    "Compendium/Reference/spells/spells.md",
+    "Compendium/Reference/spells/cure-wounds.md",
+    "Compendium/items/sword-of-wounding.md",
+    "Compendium/items",
+    "Compendium/Party/Player Characters/Felix Fizzler.md",
+    "Compendium/Party/Player Characters/Merla.md",
+    "Characters.md",
+    "Compendium/Reference/tables/urban-encounters.md",
+    "Compendium/Reference/tables/twists.md",
+    "Compendium/Reference/tables/treasure-hoard-challenge-04.md",
+    "Compendium/Reference/tables/dungeon-purpose.md",
+    "Compendium/Reference/tables/armor-and-shields-armor.md",
+    "Compendium/Reference/tables/adventuring-gear.md",
+    "Assets/Images/NPC/caladorn-cassalanter.jpg",
+    "Assets/Images/NPC/caladorn-cassalanter.jpg.opdownload",
+    "Compendium/Atlas/Material Plane/Toril/Faerûn/The Sword Coast/Waterdeep/Undermountain",
+    "Compendium/Reference/bestiary/npc",
+    "Compendium/Reference/bestiary/legendary-group",
+    "Compendium/Reference/feats",
+    "Compendium/Reference/classes",
+    "Assets/Images/quest.png",
+    "Assets/Images/session.png",
+    "Assets/Images/portrait.jpg",
+    "Assets/Images/header.png",
+    "Assets/Images/embed.jpg"
   ]
 }
