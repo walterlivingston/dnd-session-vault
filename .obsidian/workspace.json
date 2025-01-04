@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Session Logs/Session 1 (2024-12-07).md",
-                "mode": "preview",
+                "file": "README.md",
+                "mode": "source",
                 "backlinks": false,
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Session 1 (2024-12-07)"
+              "title": "README"
             }
           }
         ]
@@ -219,8 +219,10 @@
   },
   "active": "2c5d5c3a1d0d21ca",
   "lastOpenFiles": [
-    "People/Erron.md",
+    "home.md",
+    "README.md",
     "Session Logs/Session 1 (2024-12-07).md",
+    "People/Erron.md",
     "Locations/Waterdeep.md",
     "Items/Unbreakable Arrow.md",
     "Locations/Yawning Portal.md",
@@ -238,7 +240,6 @@
     "People/Caladorn Cassalanter.md",
     "People/Bertha le Gertha.md",
     "Session Logs/Session 2 (2025-01-12).md",
-    "home.md",
     "People",
     "Locations",
     "Items",
@@ -254,7 +255,6 @@
     "Session Notes/Session 01 (2024-12-07).md",
     "INDEX.md",
     "Compendium/Party/Quests/Bad Dog.md",
-    "Compendium/NPC's/Bertha le Gertha.md",
     "Compendium/items",
     "Assets/Images/NPC/caladorn-cassalanter.jpg",
     "Assets/Images/NPC/caladorn-cassalanter.jpg.opdownload",
