@@ -17,7 +17,7 @@
 
 - [Table of Contents](#table-of-contents)
 - [Setup ](#setup-)
-- [Common Markdown Techniques ](#markdown-techniques-)
+- [Common Markdown Techniques ](#markdown-techniques)
 
 ## Setup <a name = "setup"></a>
 
