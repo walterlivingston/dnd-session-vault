@@ -1,4 +1,5 @@
-# DND Session Logs
+
+---
 
 ## Latest Session
 [[Session 1 (2024-12-07)]]

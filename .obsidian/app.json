@@ -12,7 +12,7 @@
   "showLineNumber": false,
   "showIndentGuide": false,
   "readableLineLength": true,
-  "showInlineTitle": false,
+  "showInlineTitle": true,
   "defaultViewMode": "preview",
   "rightToLeft": false,
   "propertiesInDocument": "hidden",
