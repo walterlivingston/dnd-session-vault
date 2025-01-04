@@ -11,14 +11,10 @@
             "id": "33e202043e158355",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Welcome.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Welcome"
+              "title": "New tab"
             }
           }
         ]
@@ -164,9 +160,10 @@
   },
   "active": "33e202043e158355",
   "lastOpenFiles": [
+    "Welcome.md",
+    "home.md",
     "netlify.toml",
     "New Text Document.txt",
-    "Untitled.md",
-    "Welcome.md"
+    "Untitled.md"
   ]
 }
