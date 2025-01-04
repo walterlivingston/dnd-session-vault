@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Characters/Rhogar.md",
+                "file": "Characters/Corvit Crowe.md",
                 "mode": "preview",
                 "backlinks": false,
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Rhogar"
+              "title": "Corvit Crowe"
             }
           }
         ]
@@ -199,10 +199,10 @@
   },
   "active": "9f0f084614a49a28",
   "lastOpenFiles": [
-    "Characters/Merla.md",
     "Characters/Felix Fizzler.md",
-    "Characters/Corvit Crowe.md",
+    "Characters/Merla.md",
     "Characters/Rhogar.md",
+    "Characters/Corvit Crowe.md",
     "Assets/Characters/rhogar.jpeg",
     "Assets/Characters/merla.jpeg",
     "Assets/Characters/felix.png",

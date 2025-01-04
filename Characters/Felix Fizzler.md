@@ -1,34 +1,16 @@
----
-type: pc
-tags:
- - class/druid
- - race/fairy
-headerLink: "[[Felix Fizzler#Felix Fizzler]]"
-level: "1"
-hp: "10"
-ac: "13"
-modifier: "2"
-race: "Fairy"
-class: "Druid"
-subClass: "Circle of Dreams"
-cover: "/Assets/Images/Party/felix.png"
----
+# Felix Fizzler
 
-###### Felix Fizzler, the Friendly, Fabled, Fashionable, Fearless, Fancy-Free, Wayfaring Fairy of the Feywild
-:FasPerson: Player Character &nbsp; | &nbsp; :FasQuoteLeft: Quote or tagline here :FasQuoteRight:
+| Stat | Value |
+| ---- | ---- |
+| Level | 1 |
+| HP | 10 |
+| AC | 13 |
+| Initiative Modifier| 2 |
+| Class | Druid |
+| Circle | Circle of Dreams |
+| Race | Fairy |
 ___
-> [!infobox|no-t right]
 > ![[felix.png]]
-> ###### Details:
-> | Type | Stat |
-> | ---- | ---- |
-> | :FasCrown: Level   | `=this.level` |
-> | :FasHeart: HP   | `=this.hp` |
-> | :FasShield: AC   | `=this.ac` |
-> | :FasUpRightFromSquare: Initiative Modifier   | `=this.modifier` |
-> | :RiSwordFill: Class |  `=this.class`|
-> | :FasMoon: Circle |  `=this.subClass`|
-> |  :FasUserGroup: Race |  `=this.race`|
 
 > [!quote|no-t]
 > Character description here
