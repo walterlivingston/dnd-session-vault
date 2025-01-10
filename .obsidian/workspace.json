@@ -11,10 +11,15 @@
             "id": "4d87a651448b66a3",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "home.md",
+                "mode": "preview",
+                "backlinks": false,
+                "source": true
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "home"
             }
           }
         ]
@@ -214,11 +219,17 @@
   },
   "active": "4d87a651448b66a3",
   "lastOpenFiles": [
+    "People/Bertha le Gertha.md",
+    "People/Caladorn Cassalanter.md",
+    "People/Dilon.md",
+    "People/Erron.md",
+    "People/Mr. Mittens.md",
+    "People/Sarai Cassalanter.md",
+    "People/Shirley.md",
+    "home.md",
     "Session Logs/Session 2 (2025-01-11).md",
     "Session Logs/Session 1 (2024-12-07).md",
-    "home.md",
     "README.md",
-    "People/Erron.md",
     "Locations/Waterdeep.md",
     "Items/Unbreakable Arrow.md",
     "Locations/Yawning Portal.md",
@@ -229,12 +240,6 @@
     "Party/Merla.md",
     "Party/Felix Fizzler.md",
     "Party/Corvit Crowe.md",
-    "People/Shirley.md",
-    "People/Sarai Cassalanter.md",
-    "People/Mr. Mittens.md",
-    "People/Dilon.md",
-    "People/Caladorn Cassalanter.md",
-    "People/Bertha le Gertha.md",
     "People",
     "Locations",
     "Items",
