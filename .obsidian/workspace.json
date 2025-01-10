@@ -4,22 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "478d4ac5334fcfd6",
+        "id": "c125a7145e456161",
         "type": "tabs",
         "children": [
           {
-            "id": "c3509fa751307504",
+            "id": "4d87a651448b66a3",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Session Logs/Session 1 (2024-12-07).md",
-                "mode": "preview",
-                "backlinks": false,
-                "source": true
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Session 1 (2024-12-07)"
+              "title": "New tab"
             }
           }
         ]
@@ -217,11 +212,12 @@
       "obsidian-5e-statblocks:Open Creature pane": false
     }
   },
-  "active": "c3509fa751307504",
+  "active": "4d87a651448b66a3",
   "lastOpenFiles": [
+    "Session Logs/Session 2 (2025-01-11).md",
+    "Session Logs/Session 1 (2024-12-07).md",
     "home.md",
     "README.md",
-    "Session Logs/Session 1 (2024-12-07).md",
     "People/Erron.md",
     "Locations/Waterdeep.md",
     "Items/Unbreakable Arrow.md",
@@ -239,7 +235,6 @@
     "People/Dilon.md",
     "People/Caladorn Cassalanter.md",
     "People/Bertha le Gertha.md",
-    "Session Logs/Session 2 (2025-01-12).md",
     "People",
     "Locations",
     "Items",
