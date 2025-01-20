@@ -13,13 +13,50 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "home.md",
+                "file": "Party/Merla.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Merla"
+            }
+          },
+          {
+            "id": "d657099c259cfbfd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Locations/Waterdeep.md",
                 "mode": "preview",
                 "backlinks": false,
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "home"
+              "title": "Waterdeep"
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "dc48ee91226225dd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e7f78dd3da0e0036",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Session Logs/Session 2 (2025-01-11).md",
+                "mode": "preview",
+                "backlinks": false,
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Session 2 (2025-01-11)"
             }
           }
         ]
@@ -34,7 +71,7 @@
       {
         "id": "b0963ff0c5da124c",
         "type": "tabs",
-        "dimension": 24.759080800593033,
+        "dimension": 29.673590504451035,
         "children": [
           {
             "id": "a58c95d8f0002a0b",
@@ -51,7 +88,7 @@
       {
         "id": "ec977c9092a10bf2",
         "type": "tabs",
-        "dimension": 75.24091919940697,
+        "dimension": 70.32640949554896,
         "children": [
           {
             "id": "e493bc2564fcbecb",
@@ -95,8 +132,8 @@
             "state": {
               "type": "DICE_ROLLER_VIEW",
               "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
+              "icon": "dices",
+              "title": "Dice Tray"
             }
           },
           {
@@ -105,8 +142,8 @@
             "state": {
               "type": "initiative-tracker-view",
               "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
+              "icon": "initiative-tracker",
+              "title": "Initiative Tracker"
             }
           },
           {
@@ -128,8 +165,29 @@
               "icon": "initiative-tracker",
               "title": "Initiative Tracker"
             }
+          },
+          {
+            "id": "4e89c8c2933aa193",
+            "type": "leaf",
+            "state": {
+              "type": "DICE_ROLLER_VIEW",
+              "state": {},
+              "icon": "dices",
+              "title": "Dice Tray"
+            }
+          },
+          {
+            "id": "8444f84ff5d187ac",
+            "type": "leaf",
+            "state": {
+              "type": "initiative-tracker-view",
+              "state": {},
+              "icon": "initiative-tracker",
+              "title": "Initiative Tracker"
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       },
       {
         "id": "1f6fc3dcaa6b4b26",
@@ -205,7 +263,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 344.5
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -217,8 +276,27 @@
       "obsidian-5e-statblocks:Open Creature pane": false
     }
   },
-  "active": "4d87a651448b66a3",
+  "active": "d657099c259cfbfd",
   "lastOpenFiles": [
+    "Locations/Wall Mart.md",
+    "Locations/Palace of Waterdeep.md",
+    "Locations/Marv's Milkery.md",
+    "Session Logs/Session 1 (2024-12-07).md",
+    "Session Logs/Session 2 (2025-01-11).md",
+    "Locations/Yawning Portal.md",
+    "Locations/Waterdeep.md",
+    "Party/Merla.md",
+    "Party/Corvit Crowe.md",
+    "Party/Felix Fizzler.md",
+    "Party/Rhogar.md",
+    "Assets/Characters/merla.jpg",
+    "Assets/Characters/rhogar.jpeg",
+    "Assets/Characters/felix.png",
+    "Assets/Characters/corvit.jpeg",
+    "Assets/Characters/merla.jpeg",
+    "Untitled.md",
+    "Untitled",
+    "home.md",
     "People/Bertha le Gertha.md",
     "People/Caladorn Cassalanter.md",
     "People/Dilon.md",
@@ -226,44 +304,24 @@
     "People/Mr. Mittens.md",
     "People/Sarai Cassalanter.md",
     "People/Shirley.md",
-    "home.md",
-    "Session Logs/Session 2 (2025-01-11).md",
-    "Session Logs/Session 1 (2024-12-07).md",
     "README.md",
-    "Locations/Waterdeep.md",
     "Items/Unbreakable Arrow.md",
-    "Locations/Yawning Portal.md",
-    "Locations/Wall Mart.md",
-    "Locations/Palace of Waterdeep.md",
-    "Locations/Marv's Milkery.md",
-    "Party/Rhogar.md",
-    "Party/Merla.md",
-    "Party/Felix Fizzler.md",
-    "Party/Corvit Crowe.md",
     "People",
     "Locations",
     "Items",
     "create a link.md",
-    "Assets/Characters/rhogar.jpeg",
-    "Assets/Characters/merla.jpeg",
-    "Assets/Characters/felix.png",
-    "Assets/Characters/corvit.jpeg",
     "Assets/Characters",
     "Assets",
     "(Public) Session Notes",
     "Random Tables/_Implementations.md",
     "Session Notes/Session 01 (2024-12-07).md",
-    "INDEX.md",
-    "Compendium/Party/Quests/Bad Dog.md",
     "Compendium/items",
     "Assets/Images/NPC/caladorn-cassalanter.jpg",
     "Assets/Images/NPC/caladorn-cassalanter.jpg.opdownload",
     "Compendium/Atlas/Material Plane/Toril/Faerûn/The Sword Coast/Waterdeep/Undermountain",
-    "Compendium/Reference/bestiary/npc",
     "Assets/Images/quest.png",
     "Assets/Images/session.png",
     "Assets/Images/portrait.jpg",
-    "Assets/Images/header.png",
-    "Assets/Images/embed.jpg"
+    "Assets/Images/header.png"
   ]
 }

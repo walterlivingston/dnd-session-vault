@@ -10,7 +10,7 @@
 | Divine Domain | Knowledge |
 | Race | Elf |
 ___
-> ![[merla.jpeg]]
+> ![[merla.jpg]]
 
 > [!quote|no-t]
 > Character description here
