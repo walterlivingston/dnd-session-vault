@@ -1,8 +1,11 @@
 
 ---
-
-## Latest Session
-[[Session 1 (2024-12-07)]]
-
-## Next Session
+# Latest Session
 [[Session 2 (2025-01-11)]]
+# Next Session
+[[Session 3 (2025-02-15)]]
+# Inspiration
+- [[Rhogar]] - 1
+- [[Corvit Crowe]] - 1
+- [[Felix Fizzler]] - 1
+- [[Merla]] - 3

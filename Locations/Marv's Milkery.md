@@ -1,4 +1,3 @@
 --- 
-
-## Notes
+# Notes
 - Kind to cats

@@ -1,4 +1,3 @@
 --- 
-
-## Notes
+# Notes
 - Open Lord of [[Waterdeep]]

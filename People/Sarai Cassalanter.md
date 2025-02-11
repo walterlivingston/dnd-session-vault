@@ -1,4 +1,3 @@
 --- 
-
-## Notes
+# Notes
 - Daughter of [[Caladorn Cassalanter]]

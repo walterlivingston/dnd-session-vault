@@ -1,6 +1,4 @@
 --- 
-
 The city of Splendors
-
-## Notes
+# Notes
 - Commercial Hub

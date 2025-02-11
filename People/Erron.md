@@ -1,4 +1,3 @@
 --- 
-
-## Notes
+# Notes
 - Dwarf Cleric
