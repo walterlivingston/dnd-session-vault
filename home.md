@@ -8,4 +8,4 @@
 - [[Rhogar]] - 1
 - [[Corvit Crowe]] - 2
 - [[Felix Fizzler]] - 1
-- [[Merla]] - 3
+- [[Merla]] - 2
