@@ -1,7 +1,7 @@
 {
   "baseFontSize": 22,
   "translucency": false,
-  "cssTheme": "ITS Theme",
+  "cssTheme": "",
   "theme": "obsidian",
   "enabledCssSnippets": [
     "vertical lines of list-2",
