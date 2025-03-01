@@ -14,7 +14,22 @@
               "type": "markdown",
               "state": {
                 "file": "Session Logs/Session 3 (2025-02-15).md",
-                "mode": "preview",
+                "mode": "source",
+                "backlinks": false,
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Session 3 (2025-02-15)"
+            }
+          },
+          {
+            "id": "ea28215f18bad42b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Session Logs/Session 3 (2025-02-15).md",
+                "mode": "source",
                 "backlinks": false,
                 "source": true
               },
@@ -22,7 +37,8 @@
               "title": "Session 3 (2025-02-15)"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -34,7 +50,7 @@
       {
         "id": "b0963ff0c5da124c",
         "type": "tabs",
-        "dimension": 24.759080800593033,
+        "dimension": 24.81536189069424,
         "children": [
           {
             "id": "a58c95d8f0002a0b",
@@ -51,7 +67,7 @@
       {
         "id": "ec977c9092a10bf2",
         "type": "tabs",
-        "dimension": 75.24091919940697,
+        "dimension": 75.18463810930575,
         "children": [
           {
             "id": "e493bc2564fcbecb",
@@ -217,8 +233,22 @@
       "obsidian-5e-statblocks:Open Creature pane": false
     }
   },
-  "active": "f5f1f0680c016630",
+  "active": "ea28215f18bad42b",
   "lastOpenFiles": [
+    "People/Thia.md",
+    "People/Karina.md",
+    "People/Echo.md",
+    "Session Logs/Session 4 (2025-03-01).md",
+    "Session Logs/Session 3 (2025-02-15).md",
+    "Locations/House of the Moon.md",
+    "Locations/Greg's Grogs.md",
+    "Locations/Wall Mart.md",
+    "Untitled 1.md",
+    "Locations/Dragonborn Neighborhood.md",
+    "Locations/City of the Dead.md",
+    "People/Shirley.md",
+    "People/Mr. Mittens.md",
+    "People/Sarai Cassalanter.md",
     "Session Logs/Session 2 (2025-01-11).md",
     "Assets/Characters/merla.jpg",
     "Assets/Characters/felix.png",
@@ -226,9 +256,7 @@
     "Assets/Characters/Cloak of the Bat.png",
     "Assets/Characters/rhogar.jpeg",
     "Party/Corvit Crowe.md",
-    "Session Logs/Session 3 (2025-02-15).md",
     "Locations/Yawning Portal.md",
-    "Session Logs/Session 4 (2025-03-01).md",
     "Locations/Mausoleum.md",
     "Locations/The Scaled Row.md",
     "Locations/Waterdeep.md",
@@ -237,18 +265,7 @@
     "People/Can't Remember Name.md",
     "home.md",
     "People/Chua.md",
-    "Locations/Dragonborn Neighborhood.md",
-    "Locations/City of the Dead.md",
     "People/Greg.md",
-    "People/Shirley.md",
-    "Session Logs/Session 1 (2024-12-07).md",
-    "People/Sarai Cassalanter.md",
-    "People/Mr. Mittens.md",
-    "People/Erron.md",
-    "People/Caladorn Cassalanter.md",
-    "People/Bertha le Gertha.md",
-    "Items/Unbreakable Arrow.md",
-    "Locations/Wall Mart.md",
     "People",
     "Locations",
     "Items",
