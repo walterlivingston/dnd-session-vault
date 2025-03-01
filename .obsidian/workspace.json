@@ -14,9 +14,9 @@
               "type": "markdown",
               "state": {
                 "file": "Session Logs/Session 3 (2025-02-15).md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
+                "mode": "preview",
+                "backlinks": false,
+                "source": true
               },
               "icon": "lucide-file",
               "title": "Session 3 (2025-02-15)"
@@ -59,8 +59,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical",
-                "autoReveal": false
+                "sortOrder": "alphabetical"
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -70,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 346.5
+    "width": 203.5
   },
   "right": {
     "id": "cbcc3a597fb0833b",
@@ -220,20 +219,26 @@
   },
   "active": "f5f1f0680c016630",
   "lastOpenFiles": [
-    "Locations/Mausoleum.md",
+    "Session Logs/Session 2 (2025-01-11).md",
+    "Assets/Characters/merla.jpg",
+    "Assets/Characters/felix.png",
+    "Assets/Characters/corvit.jpeg",
+    "Assets/Characters/Cloak of the Bat.png",
+    "Assets/Characters/rhogar.jpeg",
+    "Party/Corvit Crowe.md",
     "Session Logs/Session 3 (2025-02-15).md",
+    "Locations/Yawning Portal.md",
+    "Session Logs/Session 4 (2025-03-01).md",
+    "Locations/Mausoleum.md",
     "Locations/The Scaled Row.md",
     "Locations/Waterdeep.md",
     "People/Durnan the Wanderer.md",
     "People/Dilon.md",
-    "Session Logs/Session 4 (2025-03-01).md",
     "People/Can't Remember Name.md",
     "home.md",
     "People/Chua.md",
     "Locations/Dragonborn Neighborhood.md",
     "Locations/City of the Dead.md",
-    "Assets/Characters/Cloak of the Bat.png",
-    "Session Logs/Session 2 (2025-01-11).md",
     "People/Greg.md",
     "People/Shirley.md",
     "Session Logs/Session 1 (2024-12-07).md",
@@ -243,18 +248,11 @@
     "People/Caladorn Cassalanter.md",
     "People/Bertha le Gertha.md",
     "Items/Unbreakable Arrow.md",
-    "Party/Corvit Crowe.md",
-    "Locations/Yawning Portal.md",
     "Locations/Wall Mart.md",
-    "Locations/Palace of Waterdeep.md",
-    "Assets/Characters/merla.jpg",
     "People",
     "Locations",
     "Items",
-    "Assets/Characters/rhogar.jpeg",
     "Assets/Characters/merla.jpeg",
-    "Assets/Characters/felix.png",
-    "Assets/Characters/corvit.jpeg",
     "Assets/Characters",
     "Assets",
     "(Public) Session Notes",
