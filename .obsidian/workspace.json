@@ -28,17 +28,67 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Session Logs/Session 3 (2025-02-15).md",
+                "file": "Session Logs/Session 4 (2025-03-01).md",
                 "mode": "source",
                 "backlinks": false,
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Session 3 (2025-02-15)"
+              "title": "Session 4 (2025-03-01)"
+            }
+          },
+          {
+            "id": "8dd6220ca297f06e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "People/Elminster.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Elminster"
+            }
+          },
+          {
+            "id": "4027ae3ccdf73110",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Session Logs/Session 4 (2025-03-01).md",
+                "mode": "preview",
+                "backlinks": false,
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Session 4 (2025-03-01)"
+            }
+          },
+          {
+            "id": "24668bf76f3ad6b9",
+            "type": "leaf",
+            "state": {
+              "type": "modal-form-manage-forms-view",
+              "state": {},
+              "icon": "documents",
+              "title": "Manage forms"
+            }
+          },
+          {
+            "id": "db24169b18e170fa",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -233,13 +283,19 @@
       "obsidian-5e-statblocks:Open Creature pane": false
     }
   },
-  "active": "ea28215f18bad42b",
+  "active": "db24169b18e170fa",
   "lastOpenFiles": [
+    "Session Logs/Session 4 (2025-03-01).md",
+    "Session Logs/Session 2 (2025-01-11).md",
+    "Session Logs/Session 3 (2025-02-15).md",
+    "North Ward.md",
+    "Session Logs/Session 1 (2024-12-07).md",
+    "People/Elminster.md",
+    "Gods/Mystra.md",
+    "Gods",
     "People/Thia.md",
     "People/Karina.md",
     "People/Echo.md",
-    "Session Logs/Session 4 (2025-03-01).md",
-    "Session Logs/Session 3 (2025-02-15).md",
     "Locations/House of the Moon.md",
     "Locations/Greg's Grogs.md",
     "Locations/Wall Mart.md",
@@ -249,7 +305,6 @@
     "People/Shirley.md",
     "People/Mr. Mittens.md",
     "People/Sarai Cassalanter.md",
-    "Session Logs/Session 2 (2025-01-11).md",
     "Assets/Characters/merla.jpg",
     "Assets/Characters/felix.png",
     "Assets/Characters/corvit.jpeg",
@@ -262,10 +317,6 @@
     "Locations/Waterdeep.md",
     "People/Durnan the Wanderer.md",
     "People/Dilon.md",
-    "People/Can't Remember Name.md",
-    "home.md",
-    "People/Chua.md",
-    "People/Greg.md",
     "People",
     "Locations",
     "Items",
@@ -277,7 +328,6 @@
     "Assets/Images/NPC/caladorn-cassalanter.jpg",
     "Assets/Images/NPC/caladorn-cassalanter.jpg.opdownload",
     "Compendium/Atlas/Material Plane/Toril/Faerûn/The Sword Coast/Waterdeep/Undermountain",
-    "Compendium/Reference/bestiary/npc",
     "Assets/Images/quest.png",
     "Assets/Images/session.png",
     "Assets/Images/portrait.jpg"
