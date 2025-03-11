@@ -1,1 +1,3 @@
-Goddess of love, tied to [[Rhogar]]'s necklace.
+--- 
+# Notes
+- Goddess of love, tied to [[Rhogar]]'s necklace.

@@ -1,1 +1,3 @@
-Deity of endurance, martyrdom, perseverance, and suffering.
+--- 
+# Notes
+- Deity of endurance, martyrdom, perseverance, and suffering.

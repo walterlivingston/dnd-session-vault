@@ -1,1 +1,3 @@
-God of trickery and mischeif.
+--- 
+# Notes
+- God of trickery and mischief.

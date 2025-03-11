@@ -1,1 +1,6 @@
-Corgi gifted to the party by [[Shirley]].
+---
+
+---
+---
+# Notes
+- Corgi gifted to the party by [[Shirley]].

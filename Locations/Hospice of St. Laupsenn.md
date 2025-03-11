@@ -1,1 +1,3 @@
-Temple to [[Ilmater]]
+--- 
+# Notes
+- Temple to [[Ilmater]]

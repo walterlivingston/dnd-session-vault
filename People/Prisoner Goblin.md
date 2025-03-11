@@ -1,1 +1,3 @@
-Goblin freed from execution by [[Rhogar]].
+--- 
+# Notes
+- Goblin freed from execution by [[Rhogar]].

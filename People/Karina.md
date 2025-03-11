@@ -1,4 +1,7 @@
 ---
+
+---
+---
 # Notes
-- Cleric of Selune
+- Cleric of [[Selûne]]
 

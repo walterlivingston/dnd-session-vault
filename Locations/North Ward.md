@@ -1,1 +1,3 @@
-Execution site and nearby the [[Hospice of St. Laupsenn]].
+--- 
+# Notes
+- Execution site and nearby the [[Hospice of St. Laupsenn]].

@@ -1,1 +1,6 @@
-Dragonborn parents of [[Rhogar]].
+---
+
+---
+---
+# Notes
+- Dragonborn parents of [[Rhogar]].

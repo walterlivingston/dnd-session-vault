@@ -1,2 +1,4 @@
-Appeared to Rhogar in a vision from [[Sune]].
+--- 
+# Notes
+- Appeared to [[Rhogar]] in a vision from [[Sune]].
 ![[Beloved.jpg]]

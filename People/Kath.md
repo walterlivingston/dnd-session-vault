@@ -1,1 +1,3 @@
-Cleric of [[Ilmater]], died in the sewers.
+--- 
+# Notes
+- Cleric of [[Ilmater]], died in the sewers.
