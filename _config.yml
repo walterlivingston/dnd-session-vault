@@ -31,18 +31,25 @@ just_the_docs:
   collections:
     assets:
       name: Assets
+      nav_fold: true
     gods:
       name: Gods
+      nav_fold: true
     items:
       name: Items
+      nav_fold: true
     locations:
       name: Locations
+      nav_fold: true
     party:
       name: Party
+      nav_fold: true
     people:
       name: People
+      nav_fold: true
     session_logs:
       name: Session Logs
+      nav_fold: true
 
 # aux_links:
 #   Template Repository: https://github.com/just-the-docs/just-the-docs-template
