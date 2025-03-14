@@ -4,5 +4,45 @@ theme: just-the-docs
 
 url: https://just-the-docs.github.io
 
-aux_links:
-  Template Repository: https://github.com/just-the-docs/just-the-docs-template
+collections:
+  assets:
+    permalink: "/Assets/"
+    output: true
+  gods:
+    permalink: "/Gods/"
+    output: true
+  items:
+    permalink: "/Items/"
+    output: true
+  locations:
+    permalink: "/Locations/"
+    output: true
+  party:
+    permalink: "/Party/"
+    output: true
+  people:
+    permalink: "/People/"
+    output: true
+  session_logs:
+    permalink: "/Session_Logs/"
+    output: true
+
+just_the_docs:
+  collections:
+    assets:
+      name: Assets
+    gods:
+      name: Gods
+    items:
+      name: Items
+    locations:
+      name: Locations
+    party:
+      name: Party
+    people:
+      name: People
+    session_logs:
+      name: Session Logs
+
+# aux_links:
+#   Template Repository: https://github.com/just-the-docs/just-the-docs-template
