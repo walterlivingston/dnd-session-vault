@@ -6,25 +6,25 @@ url: https://just-the-docs.github.io
 
 collections:
   assets:
-    permalink: "/Assets/"
+    permalink: "/:collection/:path/"
     output: true
   gods:
-    permalink: "/Gods/"
+    permalink: "/:collection/:path/"
     output: true
   items:
-    permalink: "/Items/"
+    permalink: "/:collection/:path/"
     output: true
   locations:
-    permalink: "/Locations/"
+    permalink: "/:collection/:path/"
     output: true
   party:
-    permalink: "/Party/"
+    permalink: "/:collection/:path/"
     output: true
   people:
-    permalink: "/People/"
+    permalink: "/:collection/:path/"
     output: true
   session_logs:
-    permalink: "/Session_Logs/"
+    permalink: "/:collection/:path/"
     output: true
 
 just_the_docs:
