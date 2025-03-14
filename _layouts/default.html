@@ -5,28 +5,64 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>{% if page.title %}{{ page.title }} | {% endif %}{{ site.title }}</title>
+  <link rel="stylesheet" href="{{ '/assets/css/layout.css' | relative_url }}">
   <link rel="stylesheet" href="{{ '/assets/css/styles.css' | relative_url }}">
-  <link rel="stylesheet" href="{{ '/assets/css/sidebar.css' | relative_url }}">
 </head>
 <body>
-  <div class="container">
-    {% include sidebar.html %}
-    <div class="content">
-      {{ content }}
-    </div>
+  <div class="site-container">
+    <aside class="sidebar">
+      {% include sidebar.html %}
+    </aside>
+    
+    <main class="content-wrapper">
+      <article class="content">
+        {% if page.title %}
+        <h1>{{ page.title }}</h1>
+        {% endif %}
+        {{ content }}
+      </article>
+    </main>
   </div>
   
   <script>
-    // Add toggle functionality for folders
-    document.querySelectorAll('.folder-name').forEach(folder => {
-      folder.addEventListener('click', function() {
-        const folderContents = this.nextElementSibling;
-        if (folderContents.style.display === 'none') {
-          folderContents.style.display = 'block';
-          this.classList.add('open');
-        } else {
-          folderContents.style.display = 'none';
-          this.classList.remove('open');
+    // Toggle functionality for folders
+    document.addEventListener('DOMContentLoaded', function() {
+      // Initially hide subfolder contents
+      document.querySelectorAll('.folder-contents, .subfolder-contents').forEach(content => {
+        content.style.display = 'none';
+      });
+      
+      // Add click handlers
+      document.querySelectorAll('.folder-name').forEach(folder => {
+        folder.addEventListener('click', function() {
+          const folderContents = this.nextElementSibling;
+          if (folderContents.style.display === 'none') {
+            folderContents.style.display = 'block';
+            this.classList.add('open');
+          } else {
+            folderContents.style.display = 'none';
+            this.classList.remove('open');
+          }
+        });
+      });
+      
+      // Expand current page's parent folders
+      const currentURL = window.location.pathname;
+      document.querySelectorAll('.page-item a').forEach(link => {
+        if (link.getAttribute('href') === currentURL) {
+          link.parentElement.classList.add('active');
+          
+          // Find all parent folders and expand them
+          let parent = link.parentElement.parentElement;
+          while (parent) {
+            if (parent.classList.contains('folder-contents') || parent.classList.contains('subfolder-contents')) {
+              parent.style.display = 'block';
+              if (parent.previousElementSibling && parent.previousElementSibling.classList.contains('folder-name')) {
+                parent.previousElementSibling.classList.add('open');
+              }
+            }
+            parent = parent.parentElement;
+          }
         }
       });
     });
