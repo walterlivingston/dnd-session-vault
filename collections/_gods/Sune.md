@@ -1,10 +1,10 @@
 ---
-date: 2025-03-14 16:01:13 +0000
+date: 2025-03-14 18:38:50 +0000
 layout: page
-permalink: /Gods/Sune/
+permalink: /_gods/sune/
 title: Sune
 ---
 
 --- 
 # Notes
-- Goddess of love, tied to [Rhogar](/Party/Rhogar/)'s necklace.
+- Goddess of love, tied to [Rhogar](/_party/rhogar/)'s necklace.

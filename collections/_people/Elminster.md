@@ -1,10 +1,10 @@
 ---
-date: 2025-03-14 16:01:13 +0000
+date: 2025-03-14 18:38:50 +0000
 layout: page
-permalink: /People/Elminster/
+permalink: /_people/elminster/
 title: Elminster
 ---
 
 --- 
 # Notes
-- Chosen of [Mystra](/test/_gods/Mystra/)
+- Chosen of [Mystra](/collections/_gods/Mystra/)

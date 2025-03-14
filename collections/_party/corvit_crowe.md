@@ -1,8 +1,8 @@
 ---
 date: 2025-03-14 18:38:50 +0000
 layout: page
-permalink: /_party/rhogar/
-title: Rhogar
+permalink: /_party/corvit_crowe/
+title: Corvit_Crowe
 ---
 
 --- 
@@ -10,14 +10,14 @@ title: Rhogar
 | Stat | Value |
 | ---- | ---- |
 | Level | 1 |
-| HP | 8 |
-| AC | 14 |
+| HP | 5 |
+| AC | 13 |
 | Initiative Modifier| 3 |
-| Class | Rogue |
-| Archetype | -- |
-| Race | Dragonborn |
+| Class | Wizard |
+| Tradition | -- |
+| Race | Half-Elf |
 ___
-> !rhogar.jpeg
+> !corvit.jpeg
 
 > [!quote|no-t]
 > Character description here

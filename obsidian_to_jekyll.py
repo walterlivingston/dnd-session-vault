@@ -62,6 +62,8 @@ def create_jekyll_frontmatter(frontmatter, filename, relative_path=None):
         permalink_path = os.path.splitext(relative_path)[0]
         # Replace backslashes with forward slashes for URLs
         permalink_path = permalink_path.replace('\\', '/')
+        permalink_path = permalink_path.replace(' ', '_')
+        permalink_path = "_" + permalink_path.lower()
         jekyll_fm['permalink'] = f"/{permalink_path}/"
     
     # Convert Obsidian tags to Jekyll tags
@@ -230,11 +232,13 @@ def process_markdown_file(file_path, obsidian_dir, jekyll_dir, link_map):
     # Create output directory structure in Jekyll
     rel_dir = os.path.dirname(jekyll_rel_path)
     output_dir = os.path.join(jekyll_dir, rel_dir)
+    # output_dir = output_dir.lower()
     os.makedirs(output_dir, exist_ok=True)
     
     # Preserve original filename
     filename = os.path.basename(file_path)
-    jekyll_filename = filename
+    jekyll_filename = filename.lower().replace(' ', '_')
+
     
     # We'll store the original path in frontmatter permalink for consistent URLs
     original_rel_path = rel_path.replace('\\', '/')
