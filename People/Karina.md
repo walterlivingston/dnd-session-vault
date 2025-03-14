@@ -1,7 +1,0 @@
----
-
----
----
-# Notes
-- Cleric of [[Selûne]]
-

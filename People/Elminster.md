@@ -1,3 +1,0 @@
---- 
-# Notes
-- Chosen of [[Mystra]]
