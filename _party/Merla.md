@@ -1,3 +1,7 @@
+---
+layout: default
+title: Merla
+nav_enabled: true
 --- 
 
 | Stat | Value |

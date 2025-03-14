@@ -1,3 +1,7 @@
+---
+layout: default
+title: Mausoleum
+nav_enabled: true
 --- 
 # Notes
 - Exists in the [[City of the Dead]].

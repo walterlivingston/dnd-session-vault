@@ -1,5 +1,10 @@
-
 ---
+layout: home
+title: Home
+nav_enabled: true
+---
+
+
 # D&D Beyond Campaign Link
 [Wrath & Martyrdom](https://www.dndbeyond.com/campaigns/join/6240027808879349)
 # Latest Session

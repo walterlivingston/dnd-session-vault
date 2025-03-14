@@ -1,3 +1,7 @@
+---
+layout: default
+title: Rhogar
+nav_enabled: true
 --- 
 
 | Stat | Value |

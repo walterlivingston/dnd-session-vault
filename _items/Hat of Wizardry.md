@@ -1,4 +1,8 @@
---- 
+---
+layout: default
+title: Hat of Wizardry
+nav_enabled: true
+---  
 *Wondrous item, common (requires attunement by a wizard)* 
 
 This antiquated, cone-shaped hat is adorned with gold crescent moons and stars. While you are wearing it, you gain the following benefits:

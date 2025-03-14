@@ -1,3 +1,7 @@
+---
+layout: default
+title: City of the Dead
+nav_enabled: true
 --- 
 # Notes
 - [[Corvit Crowe]] was attacked by a horde of undead here.

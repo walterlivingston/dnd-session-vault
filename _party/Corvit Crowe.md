@@ -1,3 +1,7 @@
+---
+layout: default
+title: Corvit Crowe
+nav_enabled: true
 --- 
 
 | Stat | Value |

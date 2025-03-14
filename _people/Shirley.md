@@ -1,3 +1,7 @@
+---
+layout: default
+title: Shirley
+nav_enabled: true
 --- 
 # Notes
 - Female

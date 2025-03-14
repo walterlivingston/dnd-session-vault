@@ -1,3 +1,7 @@
+---
+layout: default
+title: Felix Fizzler
+nav_enabled: true
 --- 
 
 | Stat | Value |

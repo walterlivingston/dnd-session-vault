@@ -1,4 +1,8 @@
---- 
+---
+layout: default
+title: Mace of Smiting
+nav_enabled: true
+---  
 *Weapon (mace), rare*
 
 You gain a +1 bonus to attack rolls and damage rolls made with this magic weapon. The bonus increases to +3 when you use the weapon to attack a Construct.
