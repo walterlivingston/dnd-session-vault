@@ -1,0 +1,23 @@
+---
+date: 2025-03-14 16:01:13 +0000
+layout: page
+permalink: /Party/Rhogar/
+title: Rhogar
+---
+
+--- 
+
+| Stat | Value |
+| ---- | ---- |
+| Level | 1 |
+| HP | 8 |
+| AC | 14 |
+| Initiative Modifier| 3 |
+| Class | Rogue |
+| Archetype | -- |
+| Race | Dragonborn |
+___
+> !rhogar.jpeg
+
+> [!quote|no-t]
+> Character description here

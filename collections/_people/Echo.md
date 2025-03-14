@@ -1,0 +1,11 @@
+---
+date: 2025-03-14 16:01:13 +0000
+layout: page
+permalink: /People/Echo/
+title: Echo
+---
+
+--- 
+# Notes
+- a white owl
+- [Merla](/Party/Merla/)'s familiar
