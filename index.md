@@ -13,7 +13,7 @@ title: Home
 # Next Session
 [Session 5 (2025-02-21)]({% link _session_logs/session_5_(2025-02-21).md %})
 # Inspiration
-- [Rhogar]({% link _party/rhogar.md %}) - 1
+- [Rhogar]({% link rhogar.md %}) - 1
 - [Corvit Crowe]({% link _party/corvit_crowe.md %}) - 2
 - [Felix Fizzler]({% link _party/felix_fizzler.md %}) - 1
 - [Merla]({% link _party/merla.md %}) - 2
