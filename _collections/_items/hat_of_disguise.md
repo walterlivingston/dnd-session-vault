@@ -1,5 +1,5 @@
 ---
-date: 2025-03-14 22:14:57 +0000
+date: 2025-03-14 22:17:28 +0000
 layout: page
 permalink: _items/hat_of_disguise.md
 title: Hat Of Disguise

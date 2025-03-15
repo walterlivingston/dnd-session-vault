@@ -1,5 +1,5 @@
 ---
-date: 2025-03-14 22:14:57 +0000
+date: 2025-03-14 22:17:28 +0000
 layout: page
 permalink: _locations/the_scaled_row.md
 title: The Scaled Row
