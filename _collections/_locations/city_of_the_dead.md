@@ -1,7 +1,7 @@
 ---
-date: 2025-03-14 21:55:33 +0000
+date: 2025-03-14 22:06:30 +0000
 layout: page
-permalink: _locations/city_of_the_dead.md
+permalink: city_of_the_dead.md
 title: City Of The Dead
 ---
 

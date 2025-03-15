@@ -1,7 +1,7 @@
 ---
-date: 2025-03-14 21:55:33 +0000
+date: 2025-03-14 22:06:30 +0000
 layout: page
-permalink: _locations/palace_of_waterdeep.md
+permalink: palace_of_waterdeep.md
 title: Palace Of Waterdeep
 ---
 

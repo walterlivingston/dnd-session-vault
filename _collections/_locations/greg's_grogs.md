@@ -1,7 +1,7 @@
 ---
-date: 2025-03-14 21:55:33 +0000
+date: 2025-03-14 22:06:30 +0000
 layout: page
-permalink: _locations/greg's_grogs.md
+permalink: greg's_grogs.md
 title: Greg'S Grogs
 ---
 
