@@ -1,11 +1,11 @@
 ---
-date: 2025-03-14 18:38:50 +0000
+date: 2025-03-14 21:04:19 +0000
 layout: page
-permalink: /_locations/dragonborn_neighborhood/
-title: Dragonborn_Neighborhood
+permalink: /_locations/dragonborn_neighborhood.md
+title: Dragonborn Neighborhood
 ---
 
 --- 
 # Notes
-- Last known location of [Chua](/collections/_people/Chua/)'s parents
+- Last known location of [Chua](/collections/_people/Chua.md)'s parents
 - Symbols nearby of the Cult of the Dragonborn

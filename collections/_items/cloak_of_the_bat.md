@@ -1,8 +1,8 @@
 ---
-date: 2025-03-14 18:38:50 +0000
+date: 2025-03-14 21:04:20 +0000
 layout: page
-permalink: /_items/cloak_of_the_bat/
-title: Cloak_Of_The_Bat
+permalink: /_items/cloak_of_the_bat.md
+title: Cloak Of The Bat
 ---
 
 --- 

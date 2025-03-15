@@ -1,8 +1,8 @@
 ---
-date: 2025-03-14 18:38:50 +0000
+date: 2025-03-14 21:04:20 +0000
 layout: page
-permalink: /_items/hat_of_wizardry/
-title: Hat_Of_Wizardry
+permalink: /_items/hat_of_wizardry.md
+title: Hat Of Wizardry
 ---
 
 --- 

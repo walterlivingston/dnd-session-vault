@@ -1,10 +1,10 @@
 ---
-date: 2025-03-14 18:38:50 +0000
+date: 2025-03-14 21:04:20 +0000
 layout: page
-permalink: "/_gods/sel\xFBne/"
+permalink: "/_gods/sel\xFBne.md"
 title: "Sel\xFBne"
 ---
 
 --- 
 # Notes
-- Goddess of the moon, worshipped by [Merla](/_party/merla/).
+- Goddess of the moon, worshipped by [Merla](/_party/merla.md).

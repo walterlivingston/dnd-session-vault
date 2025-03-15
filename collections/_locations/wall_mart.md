@@ -1,8 +1,8 @@
 ---
-date: 2025-03-14 18:38:50 +0000
+date: 2025-03-14 21:04:19 +0000
 layout: page
-permalink: /_locations/wall_mart/
-title: Wall_Mart
+permalink: /_locations/wall_mart.md
+title: Wall Mart
 ---
 
 --- 

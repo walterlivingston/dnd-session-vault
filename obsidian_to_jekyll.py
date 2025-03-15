@@ -46,7 +46,7 @@ def create_jekyll_frontmatter(frontmatter, filename, relative_path=None):
         date_match = re.match(r'^\d{4}-\d{2}-\d{2}-(.+)$', title)
         if date_match:
             title = date_match.group(1)
-        jekyll_fm['title'] = title.replace('-', ' ').title()
+        jekyll_fm['title'] = title.replace('-', ' ').replace('_', ' ').title()
     
     # Add date if not present
     if 'date' not in jekyll_fm:
@@ -63,8 +63,8 @@ def create_jekyll_frontmatter(frontmatter, filename, relative_path=None):
         # Replace backslashes with forward slashes for URLs
         permalink_path = permalink_path.replace('\\', '/')
         permalink_path = permalink_path.replace(' ', '_')
-        permalink_path = "_" + permalink_path.lower()
-        jekyll_fm['permalink'] = f"/{permalink_path}/"
+        permalink_path = '_' + permalink_path.lower()
+        jekyll_fm['permalink'] = f"/{permalink_path}.md"
     
     # Convert Obsidian tags to Jekyll tags
     if 'tags' in jekyll_fm and isinstance(jekyll_fm['tags'], str):
@@ -88,7 +88,7 @@ def convert_wiki_links(content, link_map):
             return f'[{display_text}](#{anchor})'
         
         # Normalize link text to match filenames
-        normalized_link = link_text.lower().replace(' ', '-')
+        normalized_link = link_text.lower()#.replace(' ', '-')
         
         # Find the corresponding Jekyll file
         target_file = None
@@ -112,7 +112,7 @@ def convert_wiki_links(content, link_map):
             # Fallback: Convert to relative URL
             rel_path = os.path.relpath(target_file).replace('\\', '/')
             url_path = os.path.splitext(rel_path)[0]
-            return f'[{display_text}](/{url_path}/)'
+            return f'[{display_text}](/{url_path}.md)'
         else:
             # If file doesn't exist, keep the display text
             return display_text
@@ -231,14 +231,13 @@ def process_markdown_file(file_path, obsidian_dir, jekyll_dir, link_map):
     
     # Create output directory structure in Jekyll
     rel_dir = os.path.dirname(jekyll_rel_path)
-    output_dir = os.path.join(jekyll_dir, rel_dir)
+    output_dir = os.path.join(jekyll_dir, rel_dir).replace(' ', '_')
     # output_dir = output_dir.lower()
     os.makedirs(output_dir, exist_ok=True)
     
     # Preserve original filename
     filename = os.path.basename(file_path)
     jekyll_filename = filename.lower().replace(' ', '_')
-
     
     # We'll store the original path in frontmatter permalink for consistent URLs
     original_rel_path = rel_path.replace('\\', '/')
