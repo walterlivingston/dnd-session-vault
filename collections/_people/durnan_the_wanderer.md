@@ -1,7 +1,7 @@
 ---
-date: 2025-03-14 21:04:19 +0000
+date: 2025-03-14 21:07:07 +0000
 layout: page
-permalink: /_people/durnan_the_wanderer.md
+permalink: /_people/durnan_the_wanderer/
 title: Durnan The Wanderer
 ---
 

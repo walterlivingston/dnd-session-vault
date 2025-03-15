@@ -1,11 +1,11 @@
 ---
-date: 2025-03-14 21:04:19 +0000
+date: 2025-03-14 21:07:07 +0000
 layout: page
-permalink: /_people/thia.md
+permalink: /_people/thia/
 title: Thia
 ---
 
 --- 
 # Notes
-- An old friend of [Merla](/_party/merla.md)'s
+- An old friend of [Merla](/_party/merla/)'s
 - A halfling cleric of Selune

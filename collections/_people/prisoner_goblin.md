@@ -1,10 +1,10 @@
 ---
-date: 2025-03-14 21:04:19 +0000
+date: 2025-03-14 21:07:07 +0000
 layout: page
-permalink: /_people/prisoner_goblin.md
+permalink: /_people/prisoner_goblin/
 title: Prisoner Goblin
 ---
 
 --- 
 # Notes
-- Goblin freed from execution by [Rhogar](/_party/rhogar.md).
+- Goblin freed from execution by [Rhogar](/_party/rhogar/).
