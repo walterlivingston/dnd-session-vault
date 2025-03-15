@@ -1,7 +1,8 @@
 ---
-date: 2025-03-14 22:09:21 +0000
+date: 2025-03-14 22:14:56 +0000
 layout: home
 nav_enabled: true
+permalink: _index.md
 title: Home
 ---
 
