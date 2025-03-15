@@ -1,5 +1,5 @@
 ---
-date: 2025-03-14 21:26:28 +0000
+date: 2025-03-14 21:28:33 +0000
 layout: page
 permalink: /_locations/palace_of_waterdeep.md
 title: Palace Of Waterdeep

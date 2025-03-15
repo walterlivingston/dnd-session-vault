@@ -97,9 +97,6 @@ def convert_wiki_links(content, link_map):
             if obs_filename == normalized_link:
                 target_file = jekyll_path
                 break
-
-        if "city" in normalized_link:
-            print(normalized_link)
         
         if target_file:
             # Extract permalink from the target file's frontmatter
@@ -115,9 +112,6 @@ def convert_wiki_links(content, link_map):
             # Fallback: Convert to relative URL
             rel_path = os.path.relpath(target_file).replace('\\', '/')
             url_path = os.path.splitext(rel_path)[0].replace(' ', '_').lower()
-
-            if "city" in normalized_link:
-                        print(url_path)
 
             return f"[{display_text}]({{% link /{url_path}.md %}})"
         else:

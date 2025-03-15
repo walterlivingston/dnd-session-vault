@@ -10,6 +10,8 @@ color_scheme: dark
 
 collections_dir: collections
 
+exclude: vault/
+
 collections:
   assets:
     permalink: "/:collection/:path/"

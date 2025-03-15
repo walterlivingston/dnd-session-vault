@@ -1,5 +1,5 @@
 ---
-date: 2025-03-14 21:26:28 +0000
+date: 2025-03-14 21:28:33 +0000
 layout: page
 permalink: /_locations/greg's_grogs.md
 title: Greg'S Grogs
@@ -8,5 +8,5 @@ title: Greg'S Grogs
 --- 
 # Notes
 - Drink Stand
-- Run by [Greg](/_people/greg/)
+- Run by [Greg](/_people/greg.md)
 - Currently located in the Trade Ward
