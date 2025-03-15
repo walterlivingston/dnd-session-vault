@@ -2,7 +2,6 @@
 date: 2025-03-14 21:07:07 +0000
 layout: home
 nav_enabled: true
-permalink: /_index/
 title: Home
 ---
 
