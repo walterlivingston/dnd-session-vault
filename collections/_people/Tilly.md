@@ -1,9 +1,9 @@
 ---
-date: 2025-03-14 21:12:09 +0000
+date: 2025-03-14 21:26:28 +0000
 layout: page
-permalink: /_people/tilly/
+permalink: /_people/tilly.md
 title: Tilly
 ---
 
 # Notes
-- Corgi gifted to the party by [Shirley](/_people/shirley/).
+- Corgi gifted to the party by [Shirley](/_people/shirley.md).

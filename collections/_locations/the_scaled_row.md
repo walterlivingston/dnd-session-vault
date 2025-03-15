@@ -1,11 +1,11 @@
 ---
-date: 2025-03-14 21:12:09 +0000
+date: 2025-03-14 21:26:28 +0000
 layout: page
-permalink: /_locations/the_scaled_row/
+permalink: /_locations/the_scaled_row.md
 title: The Scaled Row
 ---
 
 --- 
 Dragonborn Neighborhood
 # Notes
-- In Trade Ward near [City of the Dead](/collections/_locations/City of the Dead/)
+- In Trade Ward near [City of the Dead]({% link /collections/_locations/city_of_the_dead.md %})

@@ -1,7 +1,7 @@
 ---
-date: 2025-03-14 21:12:09 +0000
+date: 2025-03-14 21:26:28 +0000
 layout: page
-permalink: /_party/corvit_crowe/
+permalink: /_party/corvit_crowe.md
 title: Corvit Crowe
 ---
 

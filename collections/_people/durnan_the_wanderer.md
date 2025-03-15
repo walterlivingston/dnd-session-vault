@@ -1,10 +1,10 @@
 ---
-date: 2025-03-14 21:12:09 +0000
+date: 2025-03-14 21:26:28 +0000
 layout: page
-permalink: /_people/durnan_the_wanderer/
+permalink: /_people/durnan_the_wanderer.md
 title: Durnan The Wanderer
 ---
 
 --- 
 # Notes
-- Owner of the [Yawning Portal](/collections/_locations/Yawning Portal/)
+- Owner of the [Yawning Portal]({% link /collections/_locations/yawning_portal.md %})

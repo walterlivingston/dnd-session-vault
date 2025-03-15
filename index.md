@@ -12,7 +12,7 @@ title: Home
 # Next Session
 [Session 5 (2025-02-21)](/collections/_session logs/Session 5 (2025-02-21))
 # Inspiration
-- [Rhogar](/collections/_party/Rhogar.md) - 1
+- [Rhogar](/collections/_party/Rhogar) - 1
 - [Corvit Crowe](/collections/_party/Corvit Crowe/) - 2
 - [Felix Fizzler](/collections/_party/Felix Fizzler/) - 1
 - [Merla](/collections/_party/Merla/) - 2
