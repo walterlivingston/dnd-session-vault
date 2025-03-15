@@ -1,5 +1,5 @@
 ---
-date: 2025-03-14 22:27:24 +0000
+date: 2025-03-15 08:48:07 +0000
 layout: page
 permalink: /_collections/_party/corvit_crowe/
 title: Corvit Crowe
@@ -17,7 +17,7 @@ title: Corvit Crowe
 | Tradition | -- |
 | Race | Half-Elf |
 ___
-> !corvit.jpeg
+> ![corvit.jpeg](/assets/images/corvit.jpeg)
 
 > [!quote|no-t]
 > Character description here

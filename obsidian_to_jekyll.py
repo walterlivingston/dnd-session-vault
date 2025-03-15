@@ -77,6 +77,26 @@ def create_jekyll_frontmatter(frontmatter, filename, relative_path=None):
 def convert_wiki_links(content, link_map):
     """Convert Obsidian wiki-links to Jekyll/Markdown links."""
     
+    # Handle ![[image.png]] embeds
+    def replace_embed(match):
+        embed_path = match.group(1).split('|')[0].strip()
+        print(embed_path)
+        # Handle image embeds
+        if any(embed_path.lower().endswith(ext) for ext in ['.png', '.jpg', '.jpeg', '.gif', '.svg']):
+            alt_text = match.group(1).split('|')[1].strip() if '|' in match.group(1) else embed_path
+            # Preserve original path structure for images
+            image_name = embed_path
+            # Strip any folder paths in the image name
+            if '/' in image_name:
+                image_name = image_name.split('/')[-1]
+            return f'![{alt_text}](/assets/images/{image_name})'
+        
+        # Handle note embeds - convert to a link instead
+        return replace_wiki_link(match)
+    
+    # Replace embeds
+    content = re.sub(r'!\[\[(.*?)\]\]', replace_embed, content)
+
     # Handle [[page]] wiki-links
     def replace_wiki_link(match):
         link_text = match.group(1).split('|')[0].strip()
@@ -121,27 +141,7 @@ def convert_wiki_links(content, link_map):
     
     # Replace wiki-links
     content = re.sub(r'\[\[(.*?)\]\]', replace_wiki_link, content)
-    
-    # Handle ![[image.png]] embeds
-    def replace_embed(match):
-        embed_path = match.group(1).split('|')[0].strip()
-        
-        # Handle image embeds
-        if any(embed_path.lower().endswith(ext) for ext in ['.png', '.jpg', '.jpeg', '.gif', '.svg']):
-            alt_text = match.group(1).split('|')[1].strip() if '|' in match.group(1) else embed_path
-            # Preserve original path structure for images
-            image_name = embed_path
-            # Strip any folder paths in the image name
-            if '/' in image_name:
-                image_name = image_name.split('/')[-1]
-            return f'![{alt_text}](/assets/images/{image_name})'
-        
-        # Handle note embeds - convert to a link instead
-        return replace_wiki_link(match)
-    
-    # Replace embeds
-    content = re.sub(r'!\[\[(.*?)\]\]', replace_embed, content)
-    
+
     return content
 
 

@@ -1,5 +1,5 @@
 ---
-date: 2025-03-14 22:27:24 +0000
+date: 2025-03-15 08:48:07 +0000
 layout: page
 permalink: /_collections/_party/merla/
 title: Merla
@@ -17,7 +17,7 @@ title: Merla
 | Divine Domain | Knowledge |
 | Race | Elf |
 ___
-> !merla.jpg
+> ![merla.jpg](/assets/images/merla.jpg)
 
 > [!quote|no-t]
 > Character description here

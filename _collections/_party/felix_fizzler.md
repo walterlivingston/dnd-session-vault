@@ -1,5 +1,5 @@
 ---
-date: 2025-03-14 22:27:24 +0000
+date: 2025-03-15 08:48:07 +0000
 layout: page
 permalink: /_collections/_party/felix_fizzler/
 title: Felix Fizzler
@@ -17,7 +17,7 @@ title: Felix Fizzler
 | Circle | Circle of Dreams |
 | Race | Fairy |
 ___
-> !felix.png
+> ![felix.png](/assets/images/felix.png)
 
 > [!quote|no-t]
 > Character description here
