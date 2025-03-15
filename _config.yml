@@ -8,7 +8,7 @@ heading_anchors: true
 
 color_scheme: dark
 
-# collections_dir: collections
+collections_dir: collections
 
 collections:
   assets:
