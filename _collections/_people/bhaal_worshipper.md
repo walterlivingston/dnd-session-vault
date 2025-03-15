@@ -1,7 +1,7 @@
 ---
-date: 2025-03-14 22:17:28 +0000
+date: 2025-03-14 22:24:40 +0000
 layout: page
-permalink: _people/bhaal_worshipper.md
+permalink: /_people/bhaal_worshipper/
 title: Bhaal Worshipper
 ---
 
