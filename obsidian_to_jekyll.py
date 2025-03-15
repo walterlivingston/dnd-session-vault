@@ -104,7 +104,7 @@ def convert_wiki_links(content, link_map):
                 with open(target_file, 'r', encoding='utf-8') as f:
                     content = f.read()
                     frontmatter, _ = parse_frontmatter(content)
-                    permalink = frontmatter["permalink"].replace('_collections','')
+                    permalink = frontmatter["permalink"].replace('_collections/','')
                     if 'permalink' in frontmatter:
                         return f'[{display_text}]({{% link {permalink} %}})'
             except (FileNotFoundError, IOError):
@@ -114,7 +114,7 @@ def convert_wiki_links(content, link_map):
             rel_path = os.path.relpath(target_file).replace('\\', '/')
             url_path = os.path.splitext(rel_path)[0].replace(' ', '_').lower()
 
-            return f"[{display_text}]({{% link {url_path.replace('_collections','')}.md %}})"
+            return f"[{display_text}]({{% link {url_path.replace('_collections/','')}.md %}})"
         else:
             # If file doesn't exist, keep the display text
             return display_text

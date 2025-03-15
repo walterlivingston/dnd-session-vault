@@ -1,5 +1,5 @@
 ---
-date: 2025-03-14 21:53:49 +0000
+date: 2025-03-14 21:55:33 +0000
 layout: page
 permalink: _people/greg.md
 title: Greg
@@ -9,4 +9,4 @@ title: Greg
 # Notes
 - Male
 - Half-Orc
-- Proprietor of [Greg's Grogs]({% link /_locations/greg's_grogs.md %})
+- Proprietor of [Greg's Grogs]({% link _locations/greg's_grogs.md %})
