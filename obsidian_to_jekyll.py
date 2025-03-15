@@ -64,7 +64,7 @@ def create_jekyll_frontmatter(frontmatter, filename, relative_path=None):
         permalink_path = permalink_path.replace('\\', '/')
         permalink_path = permalink_path.replace(' ', '_')
         permalink_path = '_' + permalink_path.lower()
-        jekyll_fm['permalink'] = f"/{permalink_path}/"
+        jekyll_fm['permalink'] = f"/_collections/{permalink_path}/"
     
     # Convert Obsidian tags to Jekyll tags
     if 'tags' in jekyll_fm and isinstance(jekyll_fm['tags'], str):

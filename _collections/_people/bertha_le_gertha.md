@@ -1,7 +1,7 @@
 ---
-date: 2025-03-14 22:24:40 +0000
+date: 2025-03-14 22:27:24 +0000
 layout: page
-permalink: /_people/bertha_le_gertha/
+permalink: /_collections/_people/bertha_le_gertha/
 title: Bertha Le Gertha
 ---
 

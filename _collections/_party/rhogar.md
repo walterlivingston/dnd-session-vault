@@ -1,7 +1,7 @@
 ---
-date: 2025-03-14 22:24:40 +0000
+date: 2025-03-14 22:27:24 +0000
 layout: page
-permalink: /_party/rhogar/
+permalink: /_collections/_party/rhogar/
 title: Rhogar
 ---
 

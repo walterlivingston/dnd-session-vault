@@ -1,7 +1,7 @@
 ---
-date: 2025-03-14 22:24:40 +0000
+date: 2025-03-14 22:27:24 +0000
 layout: page
-permalink: /_locations/yawning_portal/
+permalink: /_collections/_locations/yawning_portal/
 title: Yawning Portal
 ---
 

@@ -1,7 +1,7 @@
 ---
-date: 2025-03-14 22:24:40 +0000
+date: 2025-03-14 22:27:24 +0000
 layout: page
-permalink: /_items/hat_of_disguise/
+permalink: /_collections/_items/hat_of_disguise/
 title: Hat Of Disguise
 ---
 
