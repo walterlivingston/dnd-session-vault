@@ -1,7 +1,7 @@
 ---
 date: 2025-03-14 22:14:57 +0000
 layout: page
-permalink: _party/rhogar.md
+permalink: rhogar.md
 title: Rhogar
 ---
 
