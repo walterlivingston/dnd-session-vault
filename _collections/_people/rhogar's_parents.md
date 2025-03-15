@@ -1,9 +1,9 @@
 ---
-date: 2025-03-14 21:44:59 +0000
+date: 2025-03-14 21:53:49 +0000
 layout: page
 permalink: _people/rhogar's_parents.md
 title: Rhogar'S Parents
 ---
 
 # Notes
-- Dragonborn parents of [Rhogar]({{ site.baseurl }}{% link _party/rhogar.md %}).
+- Dragonborn parents of [Rhogar]({% link _party/rhogar.md %}).
