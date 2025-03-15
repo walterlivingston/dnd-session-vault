@@ -1,5 +1,5 @@
 ---
-date: 2025-03-14 21:07:07 +0000
+date: 2025-03-14 21:12:09 +0000
 layout: page
 permalink: /_people/dilon/
 title: Dilon
@@ -7,4 +7,4 @@ title: Dilon
 
 --- 
 # Notes
-- Barkeep at the [Yawning Portal](/collections/_locations/Yawning Portal.md)
+- Barkeep at the [Yawning Portal](/collections/_locations/Yawning Portal/)

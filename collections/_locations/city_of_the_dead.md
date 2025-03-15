@@ -1,5 +1,5 @@
 ---
-date: 2025-03-14 21:07:07 +0000
+date: 2025-03-14 21:12:09 +0000
 layout: page
 permalink: /_locations/city_of_the_dead/
 title: City Of The Dead
@@ -7,6 +7,6 @@ title: City Of The Dead
 
 --- 
 # Notes
-- [Corvit Crowe](/collections/_party/Corvit Crowe.md) was attacked by a horde of undead here.
+- [Corvit Crowe](/collections/_party/Corvit Crowe/) was attacked by a horde of undead here.
 - A mysterious *obelisk* and *mausoleum* exist here.
-- [Corvit Crowe](/collections/_party/Corvit Crowe.md) was teleported after touching the *obelisk* 
+- [Corvit Crowe](/collections/_party/Corvit Crowe/) was teleported after touching the *obelisk* 

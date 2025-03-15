@@ -1,5 +1,5 @@
 ---
-date: 2025-03-14 21:07:07 +0000
+date: 2025-03-14 21:12:09 +0000
 layout: page
 permalink: /_locations/yawning_portal/
 title: Yawning Portal
@@ -8,4 +8,4 @@ title: Yawning Portal
 --- 
 # Notes
 - Tavern and Inn
-- New barkeep is [Dilon](/collections/_people/Dilon.md)
+- New barkeep is [Dilon](/collections/_people/Dilon/)

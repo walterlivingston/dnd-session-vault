@@ -112,7 +112,7 @@ def convert_wiki_links(content, link_map):
             # Fallback: Convert to relative URL
             rel_path = os.path.relpath(target_file).replace('\\', '/')
             url_path = os.path.splitext(rel_path)[0]
-            return f'[{display_text}](/{url_path}.md)'
+            return f'[{display_text}](/{url_path}/)'
         else:
             # If file doesn't exist, keep the display text
             return display_text
