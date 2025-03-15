@@ -17,7 +17,7 @@ title: Rhogar
 | Archetype | -- |
 | Race | Dragonborn |
 ___
-> ![rhogar](_collections/assets/images/rhogar.jpeg)
+> ![rhogar]({{ site.baseurl }}/_collections/assets/images/rhogar.jpeg)
 
 > [!quote|no-t]
 > Character description here
