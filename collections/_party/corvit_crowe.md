@@ -1,5 +1,5 @@
 ---
-date: 2025-03-14 21:28:33 +0000
+date: 2025-03-14 21:37:44 +0000
 layout: page
 permalink: /_party/corvit_crowe.md
 title: Corvit Crowe

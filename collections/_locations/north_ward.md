@@ -1,5 +1,5 @@
 ---
-date: 2025-03-14 21:28:33 +0000
+date: 2025-03-14 21:37:44 +0000
 layout: page
 permalink: /_locations/north_ward.md
 title: North Ward
@@ -7,4 +7,4 @@ title: North Ward
 
 --- 
 # Notes
-- Execution site and nearby the [Hospice of St. Laupsenn]({% link /collections/_locations/hospice_of_st._laupsenn.md %}).
+- Execution site and nearby the [Hospice of St. Laupsenn]({{ site.baseurl }}{% link /collections/_locations/hospice_of_st._laupsenn.md %}).

@@ -1,5 +1,5 @@
 ---
-date: 2025-03-14 21:28:33 +0000
+date: 2025-03-14 21:37:44 +0000
 layout: page
 permalink: /_people/prisoner_goblin.md
 title: Prisoner Goblin
@@ -7,4 +7,4 @@ title: Prisoner Goblin
 
 --- 
 # Notes
-- Goblin freed from execution by [Rhogar](/_party/rhogar.md).
+- Goblin freed from execution by [Rhogar]({{ site.baseurl }}{% link /_party/rhogar.md %}).

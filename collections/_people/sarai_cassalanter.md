@@ -1,5 +1,5 @@
 ---
-date: 2025-03-14 21:28:33 +0000
+date: 2025-03-14 21:37:44 +0000
 layout: page
 permalink: /_people/sarai_cassalanter.md
 title: Sarai Cassalanter
@@ -7,4 +7,4 @@ title: Sarai Cassalanter
 
 --- 
 # Notes
-- Daughter of [Caladorn Cassalanter]({% link /collections/_people/caladorn_cassalanter.md %})
+- Daughter of [Caladorn Cassalanter]({{ site.baseurl }}{% link /collections/_people/caladorn_cassalanter.md %})

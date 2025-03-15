@@ -1,5 +1,5 @@
 ---
-date: 2025-03-14 21:28:33 +0000
+date: 2025-03-14 21:37:44 +0000
 layout: page
 permalink: /_people/echo.md
 title: Echo
@@ -8,4 +8,4 @@ title: Echo
 --- 
 # Notes
 - a white owl
-- [Merla](/_party/merla.md)'s familiar
+- [Merla]({{ site.baseurl }}{% link /_party/merla.md %})'s familiar

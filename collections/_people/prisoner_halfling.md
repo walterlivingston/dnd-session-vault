@@ -1,5 +1,5 @@
 ---
-date: 2025-03-14 21:28:33 +0000
+date: 2025-03-14 21:37:44 +0000
 layout: page
 permalink: /_people/prisoner_halfling.md
 title: Prisoner Halfling
@@ -7,4 +7,4 @@ title: Prisoner Halfling
 
 --- 
 # Notes
-- Halfling freed from execution by [Felix Fizzler]({% link /collections/_party/felix_fizzler.md %})
+- Halfling freed from execution by [Felix Fizzler]({{ site.baseurl }}{% link /collections/_party/felix_fizzler.md %})
