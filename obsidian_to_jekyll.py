@@ -56,15 +56,15 @@ def create_jekyll_frontmatter(frontmatter, filename, relative_path=None):
         else:
             jekyll_fm['date'] = datetime.now().strftime("%Y-%m-%d %H:%M:%S +0000")
     
-    # Add permalink if preserving folder structure
-    if relative_path:
-        # Create permalink based on the relative path without file extension
-        permalink_path = os.path.splitext(relative_path)[0]
-        # Replace backslashes with forward slashes for URLs
-        permalink_path = permalink_path.replace('\\', '/')
-        permalink_path = permalink_path.replace(' ', '_')
-        permalink_path = '_' + permalink_path.lower()
-        jekyll_fm['permalink'] = f"{os.path.splitext(filename)[0].lower().replace(' ','_')}.md"
+    # # Add permalink if preserving folder structure
+    # if relative_path:
+    #     # Create permalink based on the relative path without file extension
+    #     permalink_path = os.path.splitext(relative_path)[0]
+    #     # Replace backslashes with forward slashes for URLs
+    #     permalink_path = permalink_path.replace('\\', '/')
+    #     permalink_path = permalink_path.replace(' ', '_')
+    #     permalink_path = '_' + permalink_path.lower()
+    #     jekyll_fm['permalink'] = f"{os.path.splitext(filename)[0].lower().replace(' ','_')}.md"
     
     # Convert Obsidian tags to Jekyll tags
     if 'tags' in jekyll_fm and isinstance(jekyll_fm['tags'], str):
