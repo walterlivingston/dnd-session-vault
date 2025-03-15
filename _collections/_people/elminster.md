@@ -1,5 +1,5 @@
 ---
-date: 2025-03-14 21:42:49 +0000
+date: 2025-03-14 21:44:59 +0000
 layout: page
 permalink: _people/elminster.md
 title: Elminster
@@ -7,4 +7,4 @@ title: Elminster
 
 --- 
 # Notes
-- Chosen of [Mystra]({% link /_gods/mystra.md %})
+- Chosen of [Mystra]({{ site.baseurl }}{% link _gods/mystra.md %})
