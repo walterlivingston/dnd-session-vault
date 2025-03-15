@@ -2,7 +2,6 @@
 date: 2025-03-14 21:55:33 +0000
 layout: home
 nav_enabled: true
-permalink: _index.md
 title: Home
 ---
 
