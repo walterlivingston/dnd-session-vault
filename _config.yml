@@ -10,7 +10,7 @@ color_scheme: dark
 
 collections_dir: collections
 
-exclude: vault/
+exclude: [vault/]
 
 collections:
   assets:
