@@ -89,7 +89,7 @@ def convert_wiki_links(content, link_map):
             # Strip any folder paths in the image name
             if '/' in image_name:
                 image_name = image_name.split('/')[-1]
-            return f'![{alt_text}](/assets/images/{image_name})'
+            return f'![{alt_text}](/_collections/assets/images/{image_name})'
         
         # Handle note embeds - convert to a link instead
         return replace_wiki_link(match)

@@ -1,5 +1,5 @@
 ---
-date: 2025-03-15 08:48:07 +0000
+date: 2025-03-15 08:51:22 +0000
 layout: page
 permalink: /_collections/_items/cloak_of_the_bat/
 title: Cloak Of The Bat

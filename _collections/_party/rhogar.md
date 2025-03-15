@@ -1,5 +1,5 @@
 ---
-date: 2025-03-15 08:48:07 +0000
+date: 2025-03-15 08:51:22 +0000
 layout: page
 permalink: /_collections/_party/rhogar/
 title: Rhogar
@@ -17,7 +17,7 @@ title: Rhogar
 | Archetype | -- |
 | Race | Dragonborn |
 ___
-> ![rhogar.jpeg](/assets/images/rhogar.jpeg)
+> ![rhogar.jpeg](/_collections/assets/images/rhogar.jpeg)
 
 > [!quote|no-t]
 > Character description here
