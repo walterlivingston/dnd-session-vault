@@ -1,14 +1,14 @@
-title: D&D Session Vault
+title: Just the Docs Template
 description: A starter template for a Jeykll site using the Just the Docs theme!
 theme: just-the-docs
 
-url: https://walterlivingston.github.io/dnd-session-vault/
+url: https://just-the-docs.github.io
 
 heading_anchors: true
 
 color_scheme: dark
 
-collections_dir: collections
+# collections_dir: collections
 
 collections:
   assets:
