@@ -64,7 +64,7 @@ def create_jekyll_frontmatter(frontmatter, filename, relative_path=None):
         permalink_path = permalink_path.replace('\\', '/')
         permalink_path = permalink_path.replace(' ', '_')
         permalink_path = '_' + permalink_path.lower()
-        jekyll_fm['permalink'] = f"/{permalink_path}.md"
+        jekyll_fm['permalink'] = f"{permalink_path}.md"
     
     # Convert Obsidian tags to Jekyll tags
     if 'tags' in jekyll_fm and isinstance(jekyll_fm['tags'], str):
@@ -105,7 +105,7 @@ def convert_wiki_links(content, link_map):
                     content = f.read()
                     frontmatter, _ = parse_frontmatter(content)
                     if 'permalink' in frontmatter:
-                        return f'[{display_text}]({{{{ site.baseurl }}}}{{% link {frontmatter["permalink"]} %}})'
+                        return f'[{display_text}]({{% link {frontmatter["permalink"]} %}})'
             except (FileNotFoundError, IOError):
                 pass
             
@@ -113,7 +113,7 @@ def convert_wiki_links(content, link_map):
             rel_path = os.path.relpath(target_file).replace('\\', '/')
             url_path = os.path.splitext(rel_path)[0].replace(' ', '_').lower()
 
-            return f"[{display_text}]({{{{ site.baseurl }}}}{{% link /{url_path}.md %}})"
+            return f"[{display_text}]({{% link {url_path}.md %}})"
         else:
             # If file doesn't exist, keep the display text
             return display_text
