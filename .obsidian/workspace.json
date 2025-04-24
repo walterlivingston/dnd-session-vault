@@ -4,22 +4,37 @@
     "type": "split",
     "children": [
       {
-        "id": "d35e1852ddec41d0",
+        "id": "4d696455dddb91ec",
         "type": "tabs",
         "children": [
           {
-            "id": "a5381e8e34f06813",
+            "id": "f5f1f0680c016630",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "home.md",
+                "file": "Session Logs/Session 5 (2025-02-21).md",
                 "mode": "source",
-                "source": false,
+                "source": true,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "home"
+              "title": "Session 5 (2025-02-21)"
+            }
+          },
+          {
+            "id": "b64aa30617416f90",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Party/Merla.md",
+                "mode": "preview",
+                "source": true,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Merla"
             }
           }
         ]
@@ -34,7 +49,7 @@
       {
         "id": "b0963ff0c5da124c",
         "type": "tabs",
-        "dimension": 24.759080800593033,
+        "dimension": 24.815361890694238,
         "children": [
           {
             "id": "a58c95d8f0002a0b",
@@ -51,7 +66,7 @@
       {
         "id": "ec977c9092a10bf2",
         "type": "tabs",
-        "dimension": 75.24091919940697,
+        "dimension": 75.18463810930577,
         "children": [
           {
             "id": "e493bc2564fcbecb",
@@ -70,7 +85,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 346.5
+    "width": 203.5
   },
   "right": {
     "id": "cbcc3a597fb0833b",
@@ -218,52 +233,52 @@
       "obsidian-5e-statblocks:Open Creature pane": false
     }
   },
-  "active": "a5381e8e34f06813",
+  "active": "f5f1f0680c016630",
   "lastOpenFiles": [
-    "Session Logs/Session 1 (2024-12-07).md",
-    "Session Logs/Session 2 (2025-01-11).md",
-    "Session Logs/Session 3 (2025-02-15).md",
-    "Session Logs/Session 4 (2025-03-01).md",
+    "Party/Merla.md",
+    "Party/Rhogar.md",
+    "Party/Felix Fizzler.md",
+    "Party/Corvit Crowe.md",
     "Session Logs/Session 5 (2025-02-21).md",
-    "People/Durnan the Wanderer.md",
+    "Session Logs/Session 2 (2025-01-11).md",
+    "Session Logs/Session 1 (2024-12-07).md",
+    "People/Unlucky Elf.md",
+    "People/Tilly.md",
+    "People/Thia.md",
+    "People/Shirley.md",
+    "People/Sarai Cassalanter.md",
+    "People/Rhogar's Parents.md",
+    "People/Rhogar's Beloved.md",
+    "People/Mr. Mittens.md",
+    "People/Prisoner Halfling.md",
+    "People/Prisoner Goblin.md",
+    "People/Kath.md",
     "People/Dilon.md",
-    "People/Chua.md",
-    "People/Caladorn Cassalanter.md",
-    "People/Bhaal Worshipper.md",
-    "People/Bertha le Gertha.md",
+    "Items/Unbreakable Arrow.md",
+    "Items/Mace of Smiting.md",
+    "Items/Hat of Wizardry.md",
+    "Items/Hat of Disguise.md",
+    "Items/Cloak of the Bat.md",
     "Gods/Sune.md",
     "Gods/Selûne.md",
-    "Gods/Mystra.md",
-    "Gods/Kelemvor.md",
-    "Gods/Ilmater.md",
-    "Gods/Cyric.md",
-    "Items/Cloak of the Bat.md",
-    "Items/Hat of Disguise.md",
-    "Items/Hat of Wizardry.md",
-    "Items/Mace of Smiting.md",
-    "Items/Unbreakable Arrow.md",
-    "Locations/The Scaled Row.md",
-    "Locations/Wall Mart.md",
-    "Locations/Waterdeep.md",
-    "Locations/Yawning Portal.md",
-    "Gods",
+    "Assets/Characters/rhogar.jpeg",
     "Assets/Characters/Beloved.jpg",
-    "Assets/Characters/Cloak of the Bat.png",
+    "Assets/Characters/Rhogars Beloved.jfif",
+    "Assets/Characters/Rhogars Beloved.jfif.crdownload",
+    "Assets/Characters/Beloved.jfif",
+    "Assets/Characters/Beloved.jfif.crdownload",
+    "Assets/Characters/Rhogar's Beloved",
+    "Assets/Characters/Unconfirmed 790745.crdownload",
+    "Gods",
     "Assets/Characters/merla.jpg",
+    "Assets/Characters/felix.png",
+    "Assets/Characters/corvit.jpeg",
+    "Assets/Characters/Cloak of the Bat.png",
     "People",
     "Locations",
     "Items",
-    "Assets/Characters/rhogar.jpeg",
     "Assets/Characters/merla.jpeg",
-    "Assets/Characters/felix.png",
-    "Assets/Characters/corvit.jpeg",
-    "Assets/Characters",
-    "Assets",
-    "(Public) Session Notes",
-    "Compendium/items",
     "Assets/Images/NPC/caladorn-cassalanter.jpg",
-    "Assets/Images/NPC/caladorn-cassalanter.jpg.opdownload",
-    "Compendium/Atlas/Material Plane/Toril/Faerûn/The Sword Coast/Waterdeep/Undermountain",
     "Assets/Images/quest.png",
     "Assets/Images/session.png"
   ]

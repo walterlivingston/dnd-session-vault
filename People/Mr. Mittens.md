@@ -1,3 +1,3 @@
 --- 
 # Notes
-- Cat
+- Cat (Female)
