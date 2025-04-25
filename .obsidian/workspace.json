@@ -4,22 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "53cdfb65c1b3cbc6",
+        "id": "0d25f7b3f689e77c",
         "type": "tabs",
         "children": [
           {
-            "id": "1d687816ae69085a",
+            "id": "5c7838054cdc10d7",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Session Logs/Session 5 (2025-02-21).md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Session 5 (2025-02-21)"
+              "title": "New tab"
             }
           }
         ]
@@ -166,15 +161,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1d687816ae69085a",
+  "active": "da7ce39ca6150a8a",
   "lastOpenFiles": [
-    "netlify.toml",
+    "People/Mr. Mittens.md",
+    "Session Logs/Wrath & Martyrdom/Session 5 (2025-03-21).md",
     "home.md",
-    "Session Logs/Session 5 (2025-02-21).md",
-    "Session Logs/Session 4 (2025-03-01).md",
-    "Session Logs/Session 3 (2025-02-15).md",
-    "Session Logs/Session 2 (2025-01-11).md",
-    "Session Logs/Session 1 (2024-12-07).md",
+    "Session Logs/Wrath & Martyrdom",
+    "Session Logs/Session 6 (2025-04-25).md",
+    "netlify.toml",
+    "Session Logs/Wrath & Martyrdom/Session 4 (2025-03-01).md",
+    "Session Logs/Wrath & Martyrdom/Session 3 (2025-02-15).md",
+    "Session Logs/Wrath & Martyrdom/Session 2 (2025-01-11).md",
+    "Session Logs/Wrath & Martyrdom/Session 1 (2024-12-07).md",
     "Session Logs",
     "People/Unlucky Elf.md",
     "People/Tilly.md",
@@ -185,7 +183,6 @@
     "People/Rhogar's Beloved.md",
     "People/Prisoner Halfling.md",
     "People/Prisoner Goblin.md",
-    "People/Mr. Mittens.md",
     "People/Kath.md",
     "People/Karina.md",
     "People/Greg.md",
@@ -194,7 +191,6 @@
     "People/Echo.md",
     "People/Durnan the Wanderer.md",
     "People/Dilon.md",
-    "People/Chua.md",
     "People",
     "Party",
     "Locations",
