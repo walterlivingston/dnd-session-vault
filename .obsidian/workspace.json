@@ -1,40 +1,25 @@
 {
   "main": {
-    "id": "c530face6c21a68a",
+    "id": "df5d0181a0574b1c",
     "type": "split",
     "children": [
       {
-        "id": "4d696455dddb91ec",
+        "id": "53cdfb65c1b3cbc6",
         "type": "tabs",
         "children": [
           {
-            "id": "f5f1f0680c016630",
+            "id": "1d687816ae69085a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Session Logs/Session 5 (2025-02-21).md",
                 "mode": "source",
-                "source": true,
+                "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
               "title": "Session 5 (2025-02-21)"
-            }
-          },
-          {
-            "id": "b64aa30617416f90",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Party/Merla.md",
-                "mode": "preview",
-                "source": true,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Merla"
             }
           }
         ]
@@ -43,33 +28,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "a0f9c0e9714a9650",
+    "id": "d86886881ac2534c",
     "type": "split",
     "children": [
       {
-        "id": "b0963ff0c5da124c",
+        "id": "cac34a002fb525b1",
         "type": "tabs",
-        "dimension": 24.815361890694238,
         "children": [
           {
-            "id": "a58c95d8f0002a0b",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
-            }
-          }
-        ]
-      },
-      {
-        "id": "ec977c9092a10bf2",
-        "type": "tabs",
-        "dimension": 75.18463810930577,
-        "children": [
-          {
-            "id": "e493bc2564fcbecb",
+            "id": "da7ce39ca6150a8a",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -80,92 +47,9 @@
               "icon": "lucide-folder-closed",
               "title": "Files"
             }
-          }
-        ]
-      }
-    ],
-    "direction": "horizontal",
-    "width": 203.5
-  },
-  "right": {
-    "id": "cbcc3a597fb0833b",
-    "type": "split",
-    "children": [
-      {
-        "id": "36fb3699cc5e9295",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "34783b92fcf002b0",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
-            }
           },
           {
-            "id": "782751ee7524a40d",
-            "type": "leaf",
-            "state": {
-              "type": "DICE_ROLLER_VIEW",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
-            }
-          },
-          {
-            "id": "ad06346e1b1f880f",
-            "type": "leaf",
-            "state": {
-              "type": "initiative-tracker-view",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
-            }
-          },
-          {
-            "id": "b1a688faa4fe3fd5",
-            "type": "leaf",
-            "state": {
-              "type": "DICE_ROLLER_VIEW",
-              "state": {},
-              "icon": "dices",
-              "title": "Dice Tray"
-            }
-          },
-          {
-            "id": "cd884fded0564745",
-            "type": "leaf",
-            "state": {
-              "type": "initiative-tracker-view",
-              "state": {},
-              "icon": "initiative-tracker",
-              "title": "Initiative Tracker"
-            }
-          }
-        ]
-      },
-      {
-        "id": "1f6fc3dcaa6b4b26",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "37992ec5383e3e3d",
-            "type": "leaf",
-            "state": {
-              "type": "tag",
-              "state": {
-                "sortOrder": "frequency",
-                "useHierarchy": true
-              },
-              "icon": "lucide-tags",
-              "title": "Tags"
-            }
-          },
-          {
-            "id": "5313bc1a958e6408",
+            "id": "d8deed5283e70f6f",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -182,12 +66,35 @@
             }
           },
           {
-            "id": "f0a8a458c094cb80",
+            "id": "9c1edfe433dfedaa",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "faeeda280e31fd53",
+    "type": "split",
+    "children": [
+      {
+        "id": "a58df732c5c1eb65",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f6b1051e68bdf33b",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Session Notes/Session 01 (2024-12-07).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -197,51 +104,78 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Session 01 (2024-12-07)"
+              "title": "Backlinks"
             }
-          }
-        ],
-        "currentTab": 1
-      },
-      {
-        "id": "e72f6d1e9396a0dc",
-        "type": "tabs",
-        "children": [
+          },
           {
-            "id": "227a93ad5cbdf702",
+            "id": "010521794390c13f",
             "type": "leaf",
             "state": {
-              "type": "initiative-tracker-creature-view",
-              "state": {},
-              "icon": "initiative-tracker-creature-view",
-              "title": "Combatant"
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "72b5431bd4355afd",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "8df1a160eb96eb95",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 344.5
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
+      "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
-      "command-palette:Open command palette": false,
-      "modalforms:Edit forms": false,
-      "templater-obsidian:Templater": false,
-      "initiative-tracker:Initiative Tracker Encounter Builder": false,
-      "obsidian-5e-statblocks:Open Creature pane": false
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
     }
   },
-  "active": "f5f1f0680c016630",
+  "active": "1d687816ae69085a",
   "lastOpenFiles": [
-    "Party/Merla.md",
-    "Party/Rhogar.md",
-    "Party/Felix Fizzler.md",
-    "Party/Corvit Crowe.md",
+    "netlify.toml",
+    "home.md",
     "Session Logs/Session 5 (2025-02-21).md",
+    "Session Logs/Session 4 (2025-03-01).md",
+    "Session Logs/Session 3 (2025-02-15).md",
     "Session Logs/Session 2 (2025-01-11).md",
     "Session Logs/Session 1 (2024-12-07).md",
+    "Session Logs",
     "People/Unlucky Elf.md",
     "People/Tilly.md",
     "People/Thia.md",
@@ -249,37 +183,30 @@
     "People/Sarai Cassalanter.md",
     "People/Rhogar's Parents.md",
     "People/Rhogar's Beloved.md",
-    "People/Mr. Mittens.md",
     "People/Prisoner Halfling.md",
     "People/Prisoner Goblin.md",
+    "People/Mr. Mittens.md",
     "People/Kath.md",
+    "People/Karina.md",
+    "People/Greg.md",
+    "People/Erron.md",
+    "People/Elminster.md",
+    "People/Echo.md",
+    "People/Durnan the Wanderer.md",
     "People/Dilon.md",
-    "Items/Unbreakable Arrow.md",
-    "Items/Mace of Smiting.md",
-    "Items/Hat of Wizardry.md",
-    "Items/Hat of Disguise.md",
-    "Items/Cloak of the Bat.md",
-    "Gods/Sune.md",
-    "Gods/Selûne.md",
-    "Assets/Characters/rhogar.jpeg",
-    "Assets/Characters/Beloved.jpg",
-    "Assets/Characters/Rhogars Beloved.jfif",
-    "Assets/Characters/Rhogars Beloved.jfif.crdownload",
-    "Assets/Characters/Beloved.jfif",
-    "Assets/Characters/Beloved.jfif.crdownload",
-    "Assets/Characters/Rhogar's Beloved",
-    "Assets/Characters/Unconfirmed 790745.crdownload",
+    "People/Chua.md",
+    "People",
+    "Party",
+    "Locations",
+    "Items",
     "Gods",
+    "Assets/Characters/rhogar.jpeg",
     "Assets/Characters/merla.jpg",
     "Assets/Characters/felix.png",
     "Assets/Characters/corvit.jpeg",
     "Assets/Characters/Cloak of the Bat.png",
-    "People",
-    "Locations",
-    "Items",
-    "Assets/Characters/merla.jpeg",
-    "Assets/Images/NPC/caladorn-cassalanter.jpg",
-    "Assets/Images/quest.png",
-    "Assets/Images/session.png"
+    "Assets/Characters/Beloved.jpg",
+    "Assets/Characters",
+    "Assets"
   ]
 }
