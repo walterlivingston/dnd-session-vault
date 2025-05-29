@@ -1,3 +1,0 @@
---- 
-# Notes
-- Poor guy

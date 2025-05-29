@@ -1,3 +1,0 @@
---- 
-# Notes
-- Goddess of Magic

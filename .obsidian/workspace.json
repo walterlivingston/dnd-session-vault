@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Session Logs/Session 6 (2025-04-25).md",
+                "file": "home.md",
                 "mode": "source",
-                "source": true,
+                "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Session 6 (2025-04-25)"
+              "title": "home"
             }
           }
         ]
@@ -188,10 +188,18 @@
   },
   "active": "5c7838054cdc10d7",
   "lastOpenFiles": [
+    "Items/Blessings/Blessing of Enduring Step.md",
+    "Items/Blessings/Blessing of Fey Light.md",
+    "Items/Blessings/Blessing of Ilmater's Vigil.md",
+    "Items/Blessings/Blessing of Martyrdom.md",
+    "home.md",
+    "Items/Blessings",
+    "Items",
+    "Session Logs/Nest of the Eldritch Eye/Session 6 (2025-04-25).md",
+    "Session Logs/Nest of the Eldritch Eye",
     "People/Devlin's Sister.md",
     "People/Devlin.md",
     "People/Bertha le Gertha.md",
-    "Session Logs/Session 6 (2025-04-25).md",
     "Corvit.md",
     "Party/Merla.md",
     "Party/Rhogar.md",
@@ -208,27 +216,19 @@
     "Locations/Yawning Portal.md",
     "People/Mr. Mittens.md",
     "Session Logs/Wrath & Martyrdom/Session 5 (2025-03-21).md",
-    "home.md",
     "Session Logs/Wrath & Martyrdom",
     "netlify.toml",
     "Session Logs/Wrath & Martyrdom/Session 4 (2025-03-01).md",
-    "Session Logs/Wrath & Martyrdom/Session 3 (2025-02-15).md",
-    "Session Logs/Wrath & Martyrdom/Session 2 (2025-01-11).md",
-    "Session Logs/Wrath & Martyrdom/Session 1 (2024-12-07).md",
     "Session Logs",
-    "People/Unlucky Elf.md",
     "People",
     "Party",
     "Locations",
     "Items",
-    "Gods",
     "Assets/Characters/rhogar.jpeg",
     "Assets/Characters/merla.jpg",
     "Assets/Characters/felix.png",
     "Assets/Characters/corvit.jpeg",
     "Assets/Characters/Cloak of the Bat.png",
-    "Assets/Characters/Beloved.jpg",
-    "Assets/Characters",
-    "Assets"
+    "Assets/Characters/Beloved.jpg"
   ]
 }
