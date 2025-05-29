@@ -8,6 +8,6 @@
 [[Session 6 (2025-04-25)]]
 # Inspiration
 - [[Rhogar]] - 1
-- [[Corvit Crowe]] - 2
+- [[Corvit Crowe]] - 0
 - [[Felix Fizzler]] - 1
-- [[Merla]] - 2
+- [[Merla]] - 1
