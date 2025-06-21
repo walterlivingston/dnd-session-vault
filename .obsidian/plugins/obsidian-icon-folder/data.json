@@ -30,7 +30,6 @@
     "lucideIconPackType": "native"
   },
   "Compendium": "FasFolder",
-  "Assets": "FasFolder",
   "Assets/Images": "FasImagePortrait",
   "Assets/PDF": "FasFilePdf",
   "Assets/Templates": "FasNoteSticky",
