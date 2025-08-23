@@ -2,7 +2,6 @@
 {"dg-publish":true,"permalink":"/items/blessings/blessing-of-fey-light/"}
 ---
 
-
 *Felix's Blessing*
 
 Blessing from [[Ilmater\|Ilmater]] thus it is null if the recipient leaves the upper planes and material plane.
